@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
+  Hacktoberfest is coming.
+  <br />
   Coding is Fun! Do it everyday 💯💯
   <br />
-  Master the most awesome languages, one concept a day!
-  <br />
-  Learn one concept daily, code daily, add your own content and solutions to the existing problems to this repo and submit a PR!
+  This Project is made for to help beginners to contribute to the Open source.
 </p>
 
 ***
