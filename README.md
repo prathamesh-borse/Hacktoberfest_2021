@@ -1,4 +1,16 @@
-![68747470733a2f2f692e696d6775722e636f6d2f626b39437675762e706e67](https://user-images.githubusercontent.com/66899360/132447624-a3cba1c3-ea84-4582-8d6c-18404d27aae6.png)
+<h1 align="center">
+  Hacktoberfest 2021
+</h1>
+
+<p align="center">
+  Coding is Fun! Do it everyday 💯💯
+  <br />
+  Master the most awesome languages, one concept a day!
+  <br />
+  Learn one concept daily, code daily, add your own content and solutions to the existing problems to this repo and submit a PR!
+</p>
+
+***
 
 <div align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=prathamesh-borse.Hacktoberfest_2021" alt="visitors" />
