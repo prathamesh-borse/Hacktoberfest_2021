@@ -226,7 +226,7 @@ Hurray! You successfully made a contribution!
 
 
 <div align="left">
-    <b><a href="#What-is-Hacktoberfest?">↥ Back To Top</a></b>
+    <b><a href="#what-is-hacktoberfest">↥ Back To Top</a></b>
 </div>
 
 <h4 align="center">
