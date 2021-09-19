@@ -198,6 +198,7 @@ Hurray! You successfully made a contribution!
 - ### **R**
 
 - ### **S**
+  - [Siddharth Singh Chouhan](https://github.com/Sid672)
 
 - ### **T**
 
