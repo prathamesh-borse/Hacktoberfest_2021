@@ -1,7 +1,7 @@
 # Contributing
 
 We love pull requests from everyone. By participating in this project, you
-agree to abide by the [Contributor Covenant](http://contributor-covenant.org).
+agree to abde by the [Contributor Covenant](http://contributor-covenant.org).
 
 ## Steps
 
