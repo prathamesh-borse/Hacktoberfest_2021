@@ -127,7 +127,7 @@ Hurray! You successfully made a contribution!
 
 - ### **A**
 
-  - []()
+  - [Arpit Jha](https://github.com/Arpit-Jha)
   
 - ### **B**
 
