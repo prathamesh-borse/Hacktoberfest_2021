@@ -165,7 +165,7 @@ Hurray! You successfully made a contribution!
 
 - ### **J**
 
-  - [Jatin Kumar](https://github.com/Jatinkumar30)
+  - [Jatin Kumar]( https://github.com/Jatinkumar30 )
 
 - ### **K**
 
