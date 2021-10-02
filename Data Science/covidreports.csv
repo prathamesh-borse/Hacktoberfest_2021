@@ -1,0 +1,2500 @@
+Country,Age,Gender,fever,Bodypain,Runny_nose,Difficulty_in_breathing,Nasal_congestion,Sore_throat,Severity,Contact_with_covid_patient,Infected
+China,10,Male,102,1,0,0,0,1,Mild,No,0
+Italy,20,Male,103,1,1,0,0,0,Moderate,Not known,1
+Iran,55,Transgender,99,0,0,0,1,1,Severe,No,0
+Republic of Korean,37,Female,100,0,1,1,0,0,Mild,Yes,1
+France,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Spain,45,Female,99,1,0,0,0,1,Mild,Not known,1
+Germany,24,Female,98,0,0,0,0,1,Mild,No,0
+UAE,37,Male,99,0,0,1,1,1,Moderate,Not known,1
+Russia,40,Male,101,0,1,1,1,0,Moderate,Yes,1
+Canada,37,Female,100,0,1,0,0,0,Mild,No,0
+China,35,Male,101,1,0,1,1,1,Severe,Not known,1
+Netherlands,60,Female,103,1,1,1,1,1,Severe,Yes,1
+Mexico,30,Female,98,0,0,0,0,0,Mild,No,0
+Pakistan,35,Male,102,0,0,1,0,1,Moderate,Not known,0
+Chile,37,Female,100,0,1,0,0,0,Mild,No,0
+Sweden,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Peru,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Ireland,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Singapore,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Turkey,55,Male,103,1,0,1,1,1,Moderate,No,1
+Russia,35,Female,101,1,0,0,1,1,Mild,Not known,1
+France,35,Male,100,0,0,1,0,0,Mild,No,0
+Iran,37,Male,99,0,0,0,0,0,Mild,No,0
+Pakistan,24,Female,101,1,1,0,1,1,Moderate,Yes,1
+India,16,Male,98,0,0,0,0,0,Mild,No,0
+Sweden,18,Female,101,1,1,1,1,0,Severe,Not known,1
+Australia,24,Female,104,1,1,1,0,1,Severe,No,0
+Malaysia,45,Female,101,1,0,0,1,0,Moderate,Not known,1
+Argentina,55,Male,102,0,0,0,1,1,Mild,No,0
+Kuwait,73,Male,98,0,1,0,0,0,Mild,No,0
+Morocco,55,Female,101,1,0,0,1,0,Mild,yes,1
+Afghanistan,60,Male,103,1,0,0,1,1,Mild,No,0
+Finland,24,Male,98,0,0,0,0,0,Mild,No,0
+Norway,35,Female,99,0,1,0,0,1,Mild,No,0
+Singapore,18,Male,102,0,1,0,1,0,Moderate,Yes,1
+Ireland,37,Male,98,0,0,0,0,1,Mild,No,0
+Canada,35,Female,104,1,0,1,0,0,Mild,Not known,1
+France,18,Female,99,1,0,0,0,1,Mild,No,0
+Bangladesh,39,Female,100,0,0,1,0,0,Mild,Not known,0
+South Korea,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Indonesia,70,Male,103,1,1,0,0,1,Mild,No,0
+Denmark,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Romania,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Ukraine,45,Female,99,1,0,0,0,1,Mild,Not known,1
+Serbia,24,Female,98,0,0,0,0,1,Mild,No,0
+USA,37,Male,99,0,0,1,1,1,Moderate,Not known,1
+Egypt,40,Male,101,0,1,1,1,0,Moderate,Yes,1
+Thailand,18,Male,100,1,0,0,0,1,Mild,No,0
+Iraq,37,Female,99,0,0,0,1,1,Mild,No,0
+New Zealand,39,Male,100,1,0,0,1,1,Mild,No,0
+Canada,35,Female,103,1,0,1,0,0,Mild,Not known,1
+France,18,Female,99,1,0,0,0,1,Mild,No,0
+Bangladesh,39,Female,100,0,0,1,0,0,Mild,Not known,0
+South Korea,55,Female,102,1,1,1,1,0,Severe,Yes,1
+Indonesia,70,Male,103,1,1,0,0,1,Mild,No,0
+Denmark,50,Male,101,0,0,0,1,0,Mild,No,0
+Romania,55,Male,103,1,0,1,1,1,Moderate,No,1
+Ukraine,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Japan,75,Male,100,1,1,1,0,1,Mild,Yes,1
+South Africa,65,Male,98,1,0,0,0,1,Mild,No,0
+Egypt,39,Male,101,1,1,1,1,0,Severe,Not known,1
+USA,18,Male,100,1,0,0,0,1,Mild,No,0
+Iraq,37,Female,99,0,0,0,1,1,Mild,No,0
+New Zealand,39,Male,100,1,0,0,1,1,Mild,No,0
+USA,10,Male,102,1,0,0,0,1,Mild,No,0
+Italy,20,Male,103,1,1,0,0,0,Moderate,Not known,1
+Iran,45,Transgender,99,0,0,0,1,1,Mild,No,0
+Republic of Korean,37,Female,100,0,1,1,0,0,Mild,Yes,1
+France,45,Male,98,0,1,1,1,0,Moderate,Yes,1
+Spain,45,Female,99,1,0,0,0,1,Mild,No,0
+Malaysia,24,Female,98,0,0,0,0,1,Mild,No,0
+UAE,37,Female,100,0,1,0,0,0,Mild,No,0
+Russia,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Canada,18,Female,99,1,0,0,1,1,Mild,Yes,1
+China,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Netherlands,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Mexico,55,Male,103,1,0,1,1,1,Moderate,No,1
+Pakistan,35,Male,102,0,0,1,0,1,Moderate,Not known,0
+Chile,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Sweden,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Peru,45,Female,99,1,0,0,0,1,Mild,Not known,1
+Ireland,18,Female,99,1,0,0,0,1,Mild,Not known,1
+Singapore,40,Male,99,0,0,1,0,0,Mild,No,0
+Turkey,55,Male,103,1,0,1,1,1,Moderate,Yes,1
+Russia,35,Female,101,1,0,0,1,1,Mild,Not known,1
+France,35,Male,100,0,0,1,0,0,Mild,No,0
+Iran,37,Male,99,0,0,0,0,0,Mild,No,0
+Slovakia,24,Female,101,1,1,0,1,1,Moderate,Yes,1
+Somalia,35,Male,102,0,0,1,0,1,Moderate,Not known,0
+Chile,50,Male,103,1,0,1,1,1,Moderate,No,0
+Sweden,35,Male,101,1,0,0,1,0,Severe,Not known,1
+Peru,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Sri Lanka,80,Female,99,0,0,0,1,0,Mild,No,0
+Singapore,40,Male,99,0,0,1,0,0,Mild,No,0
+Turkey,70,Male,103,1,0,1,1,1,Moderate,Yes,1
+Russia,55,Male,103,1,0,1,1,1,Moderate,No,1
+Oman,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Iran,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Slovakia,24,Female,101,1,1,0,1,1,Moderate,Yes,1
+China,10,Male,102,1,0,0,0,1,Mild,No,0
+Italy,20,Male,103,1,1,0,0,0,Moderate,Not known,1
+Iran,40,Transgender,99,0,0,0,1,1,Mild,No,0
+Republic of Korean,37,Female,100,0,1,1,0,0,Mild,Yes,1
+France,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Spain,45,Female,99,1,0,0,0,1,Mild,No,0
+Germany,24,Female,98,0,0,0,0,1,Mild,No,0
+UAE,37,Male,99,0,0,1,1,1,Moderate,Not known,0
+Russia,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Canada,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+China,45,Female,99,1,0,0,0,1,Mild,Not known,1
+Netherlands,24,Female,98,0,0,0,0,1,Mild,No,0
+Mexico,37,Male,99,0,0,1,1,1,Moderate,Not known,1
+Pakistan,40,Male,101,0,1,1,1,0,Moderate,Yes,1
+Chile,35,Male,103,1,0,1,1,1,Moderate,No,0
+Sweden,20,Male,101,1,0,0,1,0,Severe,Not known,1
+Peru,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Ireland,80,Female,99,0,0,0,1,0,Mild,No,0
+Singapore,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Turkey,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Russia,45,Female,99,1,0,0,0,1,Mild,Not known,1
+France,35,Male,100,0,0,1,0,0,Mild,No,0
+Iran,37,Male,99,0,0,0,0,0,Mild,No,0
+Pakistan,55,Male,103,1,0,1,1,1,Moderate,No,1
+India,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Sweden,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Australia,24,Female,104,1,1,1,0,1,Severe,No,0
+Malaysia,45,Female,101,1,0,0,1,0,Moderate,Not known,1
+Argentina,55,Male,102,0,0,0,1,1,Mild,No,0
+Kuwait,73,Male,98,0,1,0,0,0,Mild,No,0
+Morocco,55,Female,101,1,0,0,1,0,Mild,Yes,1
+Afghanistan,60,Male,103,1,0,0,1,1,Mild,No,0
+Finland,24,Male,98,0,0,0,0,0,Mild,No,0
+Norway,35,Female,99,0,1,0,0,1,Mild,No,0
+Belgium,18,Male,102,0,1,0,1,0,Moderate,Yes,1
+Ireland,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Canada,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+France,45,Female,99,1,0,0,0,1,Mild,Not known,1
+Bangladesh,24,Female,98,0,0,0,0,1,Mild,No,0
+South Korea,37,Male,99,0,0,1,1,1,Moderate,Not known,1
+Indonesia,40,Male,101,0,1,1,1,0,Moderate,Yes,1
+Denmark,45,Male,101,0,0,0,1,0,Mild,No,0
+Japan,55,Male,100,0,0,0,0,1,Mild,No,0
+Ukraine,37,Female,99,0,0,0,0,1,Mild,No,0
+Serbia,24,Female,104,1,1,1,0,0,Moderate,No,0
+USA,65,Male,98,1,0,0,0,1,Mild,No,0
+Egypt,18,Male,101,1,1,1,1,0,Severe,Not known,1
+Thailand,55,Male,103,1,0,1,1,1,Moderate,No,1
+Iraq,55,Male,101,1,0,0,1,0,Severe,Not known,1
+New Zealand,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Canada,35,Female,104,1,0,1,0,0,Mild,Not known,1
+France,18,Female,99,1,0,0,0,1,Mild,No,0
+Bangladesh,39,Female,100,0,0,1,0,0,Mild,Not known,0
+South Korea,55,Female,102,1,1,1,1,0,Severe,Yes,1
+Indonesia,70,Male,103,1,1,0,0,1,Mild,No,0
+Denmark,50,Male,101,0,0,0,1,0,Mild,No,0
+Romania,65,Male,100,0,0,0,0,1,Mild,No,0
+Ukraine,37,Female,99,0,0,0,0,1,Mild,No,0
+Japan,24,Female,104,1,1,1,0,0,Moderate,No,1
+South Africa,65,Male,98,1,0,0,0,1,Mild,No,0
+Egypt,73,Male,101,1,1,1,1,0,Severe,Not known,1
+USA,18,Male,100,1,0,0,0,1,Mild,No,0
+Iraq,37,Female,100,0,1,1,0,0,Mild,Yes,1
+New Zealand,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+USA,45,Female,99,1,0,0,0,1,Mild,Not known,1
+Italy,24,Female,98,0,0,0,0,1,Mild,No,0
+Iran,37,Male,99,0,0,1,1,1,Moderate,Not known,1
+Republic of Korean,40,Male,101,0,1,1,1,0,Moderate,Yes,1
+France,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Spain,45,Female,99,1,0,0,0,1,Mild,No,0
+Malaysia,24,Female,98,0,0,0,0,1,Mild,No,0
+UAE,37,Male,99,0,0,1,1,1,Moderate,Not known,1
+Russia,18,Male,101,0,1,1,1,0,Moderate,Yes,1
+Canada,37,Female,100,0,1,0,0,0,Mild,No,0
+China,35,Male,101,1,0,1,1,1,Severe,No,0
+Netherlands,60,Female,103,1,1,1,1,1,Severe,Yes,1
+Mexico,30,Female,98,0,0,0,0,0,Mild,No,0
+Pakistan,35,Male,102,0,0,1,0,1,Moderate,Not known,1
+Chile,65,Male,103,1,0,1,1,1,Moderate,No,0
+Sweden,22,Male,101,1,0,0,1,0,Severe,Not known,1
+Peru,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Ireland,80,Female,99,0,0,0,1,0,Mild,No,0
+Singapore,40,Male,99,0,0,1,0,0,Mild,No,0
+Turkey,37,Female,100,0,1,0,0,0,Mild,No,0
+Russia,35,Female,104,1,0,1,0,0,Mild,Not known,1
+France,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Iran,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Slovakia,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Somalia,55,Male,103,1,0,1,1,1,Moderate,No,1
+Chile,35,Male,103,1,0,1,1,1,Moderate,No,0
+Sweden,31,Male,101,1,0,0,1,0,Severe,Not known,1
+Peru,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Sri Lanka,55,Male,103,1,0,1,1,1,Moderate,No,1
+Singapore,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Turkey,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Russia,35,Female,101,1,0,0,1,1,Mild,Not known,1
+Oman,35,Male,100,0,0,1,0,0,Mild,No,0
+Iran,37,Male,99,0,0,0,0,0,Mild,No,0
+Slovakia,24,Female,101,1,1,0,1,1,Moderate,Yes,1
+Romania,75,Male,100,1,1,0,1,1,Severe,Not known,1
+China,10,Male,102,1,0,0,0,1,Mild,No,0
+Italy,20,Male,103,1,1,0,0,0,Moderate,Not known,1
+Iran,55,Transgender,99,0,0,0,1,1,Severe,No,0
+Republic of Korean,37,Female,100,0,1,1,0,0,Mild,Yes,1
+France,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Spain,45,Female,99,1,0,0,0,1,Mild,No,0
+Singapore,24,Female,98,0,0,0,0,1,Mild,No,0
+Ireland,37,Male,99,0,0,1,1,1,Moderate,Not known,1
+Canada,40,Male,101,0,1,1,1,0,Moderate,Yes,1
+France,37,Female,100,0,1,0,0,0,Mild,No,0
+Bangladesh,35,Male,101,1,0,1,1,1,Severe,No,1
+South Korea,60,Female,103,1,1,1,1,1,Severe,Yes,1
+Indonesia,30,Female,98,0,0,0,0,0,Mild,No,0
+Denmark,35,Male,102,0,0,1,0,1,Moderate,Not known,1
+Romania,55,Male,103,1,0,1,1,1,Moderate,No,0
+Ukraine,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Serbia,75,Male,100,1,1,1,0,1,Mild,Yes,1
+USA,80,Female,99,0,0,0,1,0,Mild,No,0
+Egypt,40,Male,99,0,0,1,0,0,Mild,No,0
+Thailand,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Kazakhstan,35,Female,101,1,0,0,1,1,Mild,Not known,1
+New Zealand,35,Male,100,0,0,1,0,0,Mild,No,0
+Romania,37,Male,99,0,0,0,0,0,Mild,No,0
+France,24,Female,101,1,1,0,1,1,Moderate,Yes,1
+India,16,Male,98,0,0,0,0,0,Mild,No,0
+Sweden,18,Female,101,1,1,1,1,0,Severe,Not known,1
+Australia,24,Female,104,1,1,1,0,1,Severe,No,1
+Bahrain,45,Female,101,1,0,0,1,0,Moderate,Not known,1
+Argentina,55,Male,102,0,0,0,1,1,Mild,No,0
+Kuwait,66,Male,98,0,1,0,0,0,Mild,No,0
+Morocco,55,Female,101,1,0,0,1,0,Mild,yes,1
+Afghanistan,37,Female,100,0,1,0,0,0,Mild,No,0
+Finland,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Norway,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Singapore,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Ireland,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Canada,55,Male,103,1,0,1,1,1,Moderate,No,1
+USA,18,Female,99,1,0,0,0,1,Mild,No,0
+Bangladesh,39,Female,100,0,0,1,0,0,Mild,Not known,0
+South Korea,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Indonesia,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Denmark,45,Female,99,1,0,0,0,1,Mild,Not known,1
+Iraq,24,Female,98,0,0,0,0,1,Mild,No,0
+Ukraine,37,Male,99,0,0,1,1,1,Moderate,Not known,1
+Nigeria,40,Male,101,0,1,1,1,0,Moderate,Yes,1
+USA,65,Male,98,1,0,0,0,1,Mild,No,0
+Egypt,60,Male,101,1,1,1,1,0,Severe,Not known,1
+Thailand,18,Male,100,1,0,0,0,1,Mild,No,0
+Kazakhstan,37,Female,99,0,0,0,1,1,Mild,No,0
+New Zealand,39,Male,100,1,0,0,1,1,Mild,No,0
+Romania,35,Female,103,1,0,1,0,0,Mild,Not known,1
+France,18,Female,99,1,0,0,0,1,Mild,No,0
+Bangladesh,39,Female,100,0,0,1,0,0,Mild,Not known,1
+Hungary,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Indonesia,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Denmark,55,Male,103,1,0,1,1,1,Moderate,No,1
+Romania,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Ukraine,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Japan,24,Female,104,1,1,1,0,0,Moderate,Not known,1
+South Africa,65,Male,98,1,0,0,0,1,Mild,No,0
+Egypt,39,Male,101,1,1,1,1,0,Severe,Not known,1
+USA,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Iraq,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Philippines,45,Female,99,1,0,0,0,1,Mild,Not known,1
+USA,24,Female,98,0,0,0,0,1,Mild,No,0
+Italy,37,Male,99,0,0,1,1,1,Moderate,Not known,1
+Oman,40,Male,101,0,1,1,1,0,Moderate,Yes,1
+Nigeria,55,Male,103,1,0,1,1,1,Moderate,No,1
+Finland,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Armenia,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Kazakhstan,65,Male,98,1,0,0,0,1,Mild,No,0
+Iran,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Bulgaria,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Cuba,45,Female,99,1,0,0,0,1,Mild,Not known,1
+Sudan,24,Female,98,0,0,0,0,1,Mild,No,0
+Estoria,37,Male,99,0,0,1,1,1,Moderate,Not known,1
+CostaRica,40,Male,101,0,1,1,1,0,Moderate,Yes,1
+Sri Lanka,23,Female,102,1,1,1,1,0,Severe,Yes,1
+Gabon,70,Male,103,1,1,0,0,1,Mild,No,0
+Maldives,50,Male,101,0,0,0,1,0,Mild,No,0
+Albania,65,Male,100,0,0,0,0,1,Mild,No,0
+Cyprus,37,Female,99,0,0,0,0,1,Mild,No,0
+Kenya,24,Female,104,1,1,1,0,0,Moderate,No,1
+Georgia,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Jordan,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+SanMario,45,Female,99,1,0,0,0,1,Mild,Not known,1
+Malta,24,Female,98,0,0,0,0,1,Mild,No,0
+Taiwan,37,Male,99,0,0,1,1,1,Moderate,Not known,1
+Mauritius,40,Male,101,0,1,1,1,0,Moderate,Yes,1
+Congo,37,Female,100,0,1,0,0,0,Mild,No,0
+Vietnam,35,Male,101,1,0,1,1,1,Severe,No,1
+Zambia,60,Female,103,1,1,1,1,1,Severe,Yes,1
+Hungary,30,Female,98,0,0,0,0,0,Mild,No,0
+Haiti,35,Male,102,0,0,1,0,1,Moderate,Not known,1
+Liberia,55,Male,103,1,0,1,1,1,Moderate,No,1
+Nepal,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Togo,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Myanmar,81,Female,99,0,0,0,1,0,Mild,No,0
+Cambodia,40,Male,99,0,0,1,0,0,Mild,No,0
+Uganda,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Bermuda,35,Female,101,1,0,0,1,1,Mild,Not known,1
+Monaco,35,Male,100,0,0,1,0,0,Mild,No,0
+Barbados,45,Male,101,0,0,0,1,0,Mild,No,0
+Cuba,37,Female,100,0,1,0,0,0,Mild,No,0
+Myanmar,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Nepal,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Yemen,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Syria,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Mongolia,55,Male,103,1,0,1,1,1,Moderate,No,1
+Zimbabwe,55,Male,103,1,0,1,1,1,Moderate,No,1
+Sweden,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Fiji,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Bhutan,40,Male,101,0,1,1,1,0,Moderate,Yes,1
+Greenland,10,Male,102,1,0,0,0,1,Mild,No,0
+Hungary,55,Female,101,1,0,0,1,0,Mild,yes,1
+Pakistan,37,Female,100,0,1,0,0,0,Mild,No,0
+Mongolia,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Vietnam,18,Female,99,1,0,0,1,1,Mild,Yes,1
+China,39,Female,100,1,0,1,0,0,Mild,Not known,1
+USA,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Chile,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Ukraine,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Poland,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Australia,55,Male,103,1,0,1,1,1,Moderate,No,1
+Japan,64,Female,103,1,1,1,1,1,Severe,Yes,1
+Romania,30,Female,98,0,0,0,0,0,Mild,No,0
+Indonesia,35,Male,102,0,0,1,0,1,Moderate,Not known,0
+Philippines,55,Male,103,1,0,1,1,1,Moderate,No,1
+Israel,55,Male,101,1,0,0,1,0,Severe,Not known,1
+UAE,79,Male,100,1,1,1,0,1,Mild,Yes,1
+South Africa,18,Female,99,1,0,0,0,1,Mild,No,0
+Austria,39,Female,100,0,0,1,0,0,Mild,Not known,0
+Kuwait,55,Female,102,1,1,1,1,0,Severe,Yes,1
+Egypt,71,Male,103,1,1,0,0,1,Mild,No,0
+Serbia,50,Male,101,0,0,0,1,0,Mild,No,0
+Czechia,65,Male,100,0,0,0,0,1,Mild,No,0
+Panama,37,Female,99,0,0,0,0,1,Mild,No,0
+Norway,24,Female,104,1,1,1,0,0,Moderate,No,1
+Malaysia,65,Male,98,1,0,0,0,1,Mild,No,0
+Denmark,30,Female,98,0,0,0,0,0,Mild,No,0
+Argentina,35,Male,102,0,0,1,0,1,Moderate,Not known,0
+Finland,55,Male,103,1,0,1,1,1,Moderate,No,1
+Morocco,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Japan,78,Male,100,1,1,1,0,1,Mild,Yes,1
+China,89,Female,99,0,0,0,1,0,Mild,No,0
+USA,40,Male,99,0,0,1,0,0,Mild,No,0
+UAE,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+India,35,Female,101,1,0,0,1,1,Mild,Not known,1
+New Zealand,35,Male,100,0,0,1,0,0,Mild,No,0
+Netherlands,37,Male,99,0,0,0,0,0,Mild,No,0
+Sudan,24,Female,101,1,1,0,1,1,Moderate,Yes,1
+Poland,55,Male,103,1,0,1,1,1,Moderate,No,1
+Singapore,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Switzerland,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Nepal,45,Female,101,1,0,0,1,0,Moderate,Not known,1
+Russia,55,Female,101,1,0,0,1,0,Mild,yes,1
+Syria,37,Female,100,0,1,0,0,0,Mild,No,0
+Ghana,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Moldova,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Vietnam,39,Female,100,1,0,1,0,0,Mild,Not known,1
+France,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Singapore,18,Male,102,0,1,0,1,0,Moderate,Yes,1
+Bulgaria,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Finland,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Morocco,82,Female,99,0,0,0,1,0,Mild,No,0
+Japan,40,Male,99,0,0,1,0,0,Mild,No,1
+China,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Myanmar,35,Female,101,1,0,0,1,1,Mild,Not known,1
+Cambodia,24,Female,104,1,1,1,0,0,Moderate,No,1
+Uganda,65,Male,98,1,0,0,0,1,Mild,No,0
+Bulgaria,70,Male,101,1,1,1,1,0,Severe,Not known,1
+France,18,Male,100,1,0,0,0,1,Mild,No,0
+Peru,37,Female,100,0,1,0,0,0,Mild,No,0
+Ireland,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Singapore,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Turkey,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Bulgaria,55,Female,102,1,0,1,1,0,Severe,Yes,1
+New Zealand,55,Male,103,1,0,1,1,1,Moderate,No,1
+Canada,55,Male,103,1,0,1,1,1,Moderate,No,1
+Vietnam,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Myanmar,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Cambodia,45,Female,99,1,0,0,0,1,Mild,No,0
+Uganda,24,Female,98,0,0,0,0,1,Mild,No,0
+France,37,Male,99,0,0,1,1,1,Moderate,Not known,1
+China,40,Male,101,0,1,1,1,0,Moderate,Yes,1
+Vietnam,37,Female,100,0,1,0,0,0,Mild,No,0
+Slovakia,35,Male,101,1,0,1,1,1,Severe,No,1
+Peru,70,Female,103,1,1,1,1,1,Severe,Yes,1
+Ireland,30,Female,98,0,0,0,0,0,Mild,No,0
+Singapore,35,Male,102,0,0,1,0,1,Moderate,Not known,0
+Turkey,55,Male,103,1,0,1,1,1,Moderate,No,1
+New Zealand,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Canada,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Bulgaria,82,Female,99,0,0,0,1,0,Mild,No,0
+Afghanistan,40,Male,99,0,0,1,0,0,Mild,No,1
+Bhutan,55,Transgender,99,0,0,0,1,1,Severe,No,0
+Greenland,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Hungary,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Pakistan,45,Female,99,1,0,0,0,1,Mild,No,0
+Mongolia,24,Female,98,0,0,0,0,1,Mild,No,0
+Vietnam,37,Male,99,0,0,1,1,1,Moderate,Not known,0
+Maldives,40,Male,101,0,1,1,1,0,Moderate,Yes,1
+China,37,Female,100,0,1,0,0,0,Mild,No,0
+Vietnam,35,Male,101,1,0,1,1,1,Severe,No,0
+Republic of Korean,70,Female,103,1,1,1,1,1,Severe,Yes,1
+Bulgaria,30,Female,98,0,0,0,0,0,Mild,No,0
+Haiti,35,Male,102,0,0,1,0,1,Moderate,Not known,0
+France,55,Male,103,1,0,1,1,1,Moderate,No,1
+Thailand,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Iraq,76,Male,100,1,1,1,0,1,Mild,Yes,1
+New Zealand,82,Female,99,0,0,0,1,0,Mild,No,0
+Canada,40,Male,99,0,0,1,0,0,Mild,No,1
+France,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Thailand,35,Female,101,1,0,0,1,1,Mild,Not known,1
+UAE,24,Female,104,1,1,1,0,0,Moderate,No,1
+Vietnam,65,Male,98,1,0,0,0,1,Mild,No,0
+New Zealand,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Canada,55,Female,101,1,0,0,1,0,Mild,yes,1
+Ukraine,37,Female,100,0,1,0,0,0,Mild,No,0
+Thailand,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Iraq,18,Female,99,1,0,0,1,1,Mild,Yes,1
+New Zealand,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Canada,55,Female,102,1,0,1,1,0,Severe,Yes,1
+France,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Myanmar,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Cambodia,55,Male,103,1,0,1,1,1,Moderate,No,1
+Uganda,18,Female,99,1,0,0,0,1,Mild,No,0
+Bulgaria,18,Female,99,1,0,0,0,1,Mild,No,0
+Finland,39,Female,100,0,0,1,0,0,Mild,Not known,0
+Morocco,55,Female,102,1,1,1,1,0,Severe,Yes,1
+Japan,73,Male,103,1,1,0,0,1,Mild,No,1
+Belgium,50,Male,101,0,0,0,1,0,Mild,No,0
+China,65,Male,100,0,0,0,0,1,Mild,No,0
+Cyprus,37,Female,99,0,0,0,0,1,Mild,No,0
+Kenya,24,Female,104,1,1,1,0,0,Moderate,No,1
+Georgia,65,Male,98,1,0,0,0,1,Mild,No,0
+Jordan,37,Female,99,0,0,0,1,1,Mild,No,0
+SanMario,33,Male,100,1,0,0,1,1,Mild,Yes,1
+Malta,35,Female,103,1,0,1,0,0,Mild,Not known,1
+Taiwan,18,Female,99,1,0,0,0,1,Mild,Not known,1
+Mauritius,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Myanmar,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Cambodia,37,Female,99,0,0,0,0,1,Mild,No,0
+Uganda,24,Female,104,1,1,1,0,0,Moderate,No,1
+Oman,65,Male,98,1,0,0,0,1,Mild,No,0
+Peru,55,Female,101,1,0,0,1,0,Mild,yes,1
+Ireland,37,Female,100,0,1,0,0,0,Mild,No,0
+Singapore,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Turkey,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Russia,39,Female,100,1,0,1,0,0,Mild,Not known,1
+France,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Myanmar,55,Female,102,1,1,1,1,0,Severe,Yes,1
+Cambodia,73,Male,103,1,1,0,0,1,Mild,No,0
+Uganda,37,Female,100,0,1,0,0,0,Mild,No,0
+Bhutan,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Greenland,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Hungary,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Pakistan,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Mongolia,55,Male,103,1,0,1,1,1,Moderate,No,1
+Vietnam,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Mexico,82,Female,99,0,0,0,1,0,Mild,No,0
+Peru,40,Male,99,0,0,1,0,0,Mild,No,1
+Ireland,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Singapore,55,Female,101,1,0,0,1,0,Mild,yes,1
+Turkey,37,Female,100,0,1,0,0,0,Mild,No,0
+Russia,35,Female,104,1,0,1,0,0,Mild,Not known,1
+France,18,Female,99,1,0,0,1,1,Mild,Yes,1
+France,39,Female,100,1,0,1,0,0,Mild,Not known,1
+China,55,Female,102,1,0,1,1,0,Severe,Yes,1
+New Zealand,37,Male,99,0,0,1,1,1,Moderate,Not known,1
+Canada,40,Male,101,0,1,1,1,0,Moderate,Yes,1
+Bulgaria,37,Female,100,0,1,0,0,0,Mild,No,0
+Vietnam,35,Male,101,1,0,1,1,1,Severe,No,0
+France,70,Female,103,1,1,1,1,1,Severe,Yes,1
+Myanmar,55,Male,103,1,0,1,1,1,Moderate,No,1
+Cambodia,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Uganda,55,Female,101,1,0,0,1,0,Mild,yes,1
+Mexico,37,Female,100,0,1,0,0,0,Mild,No,0
+Armenia,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Kazakhstan,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Iran,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Bulgaria,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Finland,35,Female,101,1,0,0,1,1,Mild,Not known,1
+Morocco,35,Male,100,0,0,1,0,0,Mild,No,0
+Japan,65,Male,100,0,0,0,0,1,Mild,No,0
+Oman,37,Female,99,0,0,0,0,1,Mild,No,0
+Bulgaria,24,Female,104,1,1,1,0,0,Moderate,No,1
+Vietnam,65,Male,98,1,0,0,0,1,Mild,No,0
+Mexico,39,Male,101,1,1,1,1,0,Severe,Not known,1
+Bhutan,55,Female,101,1,0,0,1,0,Mild,yes,1
+Greenland,37,Female,100,0,1,0,0,0,Mild,No,0
+Hungary,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Pakistan,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Mongolia,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Vietnam,55,Female,102,1,0,1,1,0,Severe,Yes,1
+China,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Peru,45,Male,99,0,1,1,1,0,Moderate,Yes,1
+France,45,Female,99,1,0,0,0,1,Mild,No,0
+Peru,24,Female,104,1,1,1,0,0,Moderate,No,1
+Ireland,65,Male,98,1,0,0,0,1,Mild,No,0
+Singapore,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Turkey,18,Male,100,1,0,0,0,1,Mild,No,0
+Russia,37,Female,99,0,0,0,1,1,Mild,No,0
+France,39,Male,100,1,0,0,1,1,Mild,No,0
+Finland,35,Female,103,1,0,1,0,0,Mild,Not known,1
+Morocco,18,Female,99,1,0,0,0,1,Mild,No,0
+Japan,35,Female,101,1,0,0,1,1,Mild,Not known,1
+Mexico,55,Transgender,99,0,0,0,1,1,Severe,No,0
+New Zealand,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Canada,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+China,45,Female,99,1,0,0,0,1,Mild,No,0
+India,24,Female,98,0,0,0,0,1,Mild,No,0
+Bulgaria,37,Male,99,0,0,1,1,1,Moderate,Not known,1
+Oman,40,Male,101,0,1,1,1,0,Moderate,Yes,1
+CostaRica,37,Female,100,0,1,0,0,0,Mild,No,0
+Sri Lanka,55,Female,101,1,0,0,1,0,Mild,yes,1
+Gabon,37,Female,100,0,1,0,0,0,Mild,No,0
+Maldives,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Albania,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Cyprus,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Kenya,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Armenia,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Egypt,82,Female,99,0,0,0,1,0,Mild,No,0
+Bhutan,40,Male,99,0,0,1,0,0,Mild,No,0
+Greenland,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Hungary,55,Male,103,1,0,1,1,1,Moderate,No,1
+Pakistan,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Mongolia,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Vietnam,37,Female,99,0,0,0,0,1,Mild,No,0
+Vietnam,24,Female,104,1,1,1,0,0,Moderate,No,1
+Nigeria,65,Male,98,1,0,0,0,1,Mild,No,0
+Bulgaria,37,Female,100,0,1,0,0,0,Mild,No,0
+Mexico,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Moldova,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Somalia,39,Female,100,1,0,1,0,0,Mild,Not known,1
+USA,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Thailand,55,Male,103,1,0,1,1,1,Moderate,No,1
+Iraq,45,Transgender,99,0,0,0,1,1,Mild,No,0
+New Zealand,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Canada,45,Male,98,0,1,1,1,0,Moderate,Yes,1
+France,45,Female,99,1,0,0,0,1,Mild,No,0
+Fiji,55,Female,101,1,0,0,1,0,Mild,yes,1
+Romania,37,Female,100,0,1,0,0,0,Mild,No,0
+Turkey,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Armenia,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Kazakhstan,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Iran,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Bulgaria,45,Female,99,1,0,0,0,1,Mild,Not known,1
+Peru,35,Female,101,1,0,0,1,1,Mild,Not known,1
+Ireland,35,Male,100,0,0,1,0,0,Mild,No,0
+Singapore,37,Male,99,0,0,0,0,0,Mild,No,0
+Turkey,24,Female,101,1,1,0,1,1,Moderate,Yes,1
+China,16,Male,98,0,0,0,0,0,Mild,No,0
+Turkey,18,Female,101,1,1,1,1,0,Severe,Not known,1
+France,24,Female,104,1,1,1,0,1,Severe,No,0
+Bulgaria,45,Female,101,1,0,0,1,0,Moderate,Not known,1
+Vietnam,55,Male,102,0,0,0,1,1,Mild,No,0
+Germany,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Armenia,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Kazakhstan,45,Female,99,1,0,0,0,1,Mild,Not known,1
+Iran,24,Male,98,0,0,0,0,0,Mild,No,0
+Bulgaria,35,Female,99,0,1,0,0,1,Mild,No,0
+Bulgaria,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Iraq,76,Male,100,1,1,1,0,1,Mild,Yes,1
+New Zealand,82,Female,99,0,0,0,1,0,Mild,No,0
+USA,40,Male,99,0,0,1,0,0,Mild,No,0
+Italy,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Iran,35,Female,101,1,0,0,1,1,Mild,Not known,1
+Republic of Korean,10,Male,102,1,0,0,0,1,Mild,No,0
+France,20,Male,103,1,1,0,0,0,Moderate,Not known,1
+Spain,55,Transgender,99,0,0,0,1,1,Severe,No,0
+Malaysia,37,Female,100,0,1,1,0,0,Mild,Yes,1
+UAE,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Russia,55,Female,101,1,0,0,1,0,Mild,yes,1
+Bulgaria,37,Female,100,0,1,0,0,0,Mild,No,0
+France,35,Female,104,1,0,1,0,0,Mild,Not known,1
+USA,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Vietnam,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Hungary,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Cyprus,70,Female,103,1,1,1,1,1,Severe,Yes,1
+USA,30,Female,98,0,0,0,0,0,Mild,No,0
+Russia,35,Male,102,0,0,1,0,1,Moderate,Not known,0
+Netherlands,55,Male,103,1,0,1,1,1,Moderate,No,0
+Bulgaria,55,Male,101,1,0,0,1,0,Severe,Not known,1
+France,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Finland,55,Female,101,1,0,0,1,0,Mild,yes,1
+Morocco,37,Female,100,0,1,0,0,0,Mild,No,0
+Japan,35,Female,104,1,0,1,0,0,Mild,Not known,1
+China,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Myanmar,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Cambodia,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Uganda,65,Male,98,1,0,0,0,1,Mild,No,0
+Vietnam,70,Male,101,1,1,1,1,0,Severe,Not known,1
+India,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Oman,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Mexico,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Bhutan,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Greenland,45,Female,99,1,0,0,0,1,Mild,Not known,1
+Hungary,35,Female,101,1,0,0,1,1,Mild,Not known,1
+Pakistan,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Mongolia,82,Female,99,0,0,0,1,0,Mild,No,0
+Vietnam,40,Male,99,0,0,1,0,0,Mild,No,0
+China,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Myanmar,35,Female,101,1,0,0,1,1,Mild,Not known,1
+Cambodia,35,Male,100,0,0,1,0,0,Mild,No,0
+Uganda,37,Male,99,0,0,0,0,0,Mild,No,0
+Bulgaria,55,Male,103,1,0,1,1,1,Moderate,No,1
+USA,55,Male,101,1,0,0,1,0,Severe,Not known,1
+New Zealand,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Canada,24,Female,104,1,1,1,0,1,Severe,No,0
+Mexico,45,Female,101,1,0,0,1,0,Moderate,Not known,1
+India,55,Male,102,0,0,0,1,1,Mild,No,0
+Armenia,73,Male,98,0,1,0,0,0,Mild,No,0
+Kazakhstan,55,Female,101,1,0,0,1,0,Mild,yes,1
+Iran,70,Male,103,1,0,0,1,1,Mild,No,0
+Bulgaria,24,Male,98,0,0,0,0,0,Mild,No,0
+New Zealand,35,Female,99,0,1,0,0,1,Mild,No,0
+Canada,18,Male,102,0,1,0,1,0,Moderate,Yes,1
+Bulgaria,37,Male,98,0,0,0,0,1,Mild,No,0
+Japan,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Indonesia,18,Female,99,1,0,0,0,1,Mild,No,0
+China,39,Female,100,0,0,1,0,0,Mild,Not known,0
+Peru,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Ireland,45,Male,101,0,0,0,1,0,Mild,No,0
+Singapore,37,Female,100,0,1,0,0,0,Mild,No,0
+Turkey,35,Female,104,1,0,1,0,0,Mild,Not known,1
+New Zealand,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Canada,39,Female,100,1,0,1,0,0,Mild,Not known,1
+USA,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Peru,55,Male,103,1,0,1,1,1,Moderate,No,1
+Ireland,55,Female,101,1,0,0,1,0,Mild,yes,1
+Singapore,37,Female,100,0,1,0,0,0,Mild,No,0
+Turkey,35,Female,104,1,0,1,0,0,Mild,Not known,1
+China,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Albania,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Peru,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Ireland,37,Female,99,0,0,0,1,1,Mild,No,0
+Singapore,39,Male,100,1,0,0,1,1,Mild,No,0
+Turkey,35,Female,103,1,0,1,0,0,Mild,Not known,1
+Germany,55,Female,101,1,0,0,1,0,Mild,yes,1
+USA,37,Female,100,0,1,0,0,0,Mild,No,0
+Germany,35,Female,104,1,0,1,0,0,Mild,Not known,1
+France,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Cyprus,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Kenya,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Georgia,50,Male,101,0,0,0,1,0,Mild,No,0
+Jordan,65,Male,100,0,0,0,0,1,Mild,No,0
+SanMario,37,Female,99,0,0,0,0,1,Mild,No,0
+Malta,24,Female,104,1,1,1,0,0,Moderate,No,1
+Taiwan,65,Male,98,1,0,0,0,1,Mild,No,0
+Mauritius,65,Male,100,0,0,0,0,1,Mild,No,0
+Argentina,37,Female,99,0,0,0,0,1,Mild,No,0
+Singapore,55,Female,101,1,0,0,1,0,Mild,yes,1
+France,37,Female,100,0,1,0,0,0,Mild,No,0
+Bermuda,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Vietnam,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Cyprus,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Kenya,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Georgia,10,Male,102,1,0,0,0,1,Mild,No,0
+Jordan,20,Male,103,1,1,0,0,0,Moderate,Not known,0
+SanMario,45,Transgender,99,0,0,0,1,1,Mild,No,0
+Malta,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Taiwan,45,Male,98,0,1,1,1,0,Moderate,Yes,0
+Mauritius,37,Female,100,0,1,0,0,0,Mild,No,0
+Bahrain,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Nigeria,18,Female,99,1,0,0,1,1,Mild,Yes,1
+China,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Kazakhstan,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Togo,55,Male,103,1,0,1,1,1,Moderate,No,1
+Bulgaria,39,Male,100,1,0,0,1,1,Mild,No,0
+Russia,10,Male,102,1,0,0,0,1,Mild,No,0
+Norway,20,Male,103,1,1,0,0,0,Moderate,Not known,0
+France,45,Transgender,99,0,0,0,1,1,Mild,No,0
+Congo,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Peru,45,Male,98,0,1,1,1,0,Moderate,Yes,0
+Ireland,55,Female,101,1,0,0,1,0,Mild,yes,1
+Singapore,37,Female,100,0,1,0,0,0,Mild,No,0
+Turkey,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Netherlands,18,Female,99,1,0,0,1,1,Mild,Yes,1
+USA,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Republic of Korean,55,Female,102,1,0,1,1,0,Severe,Yes,1
+South Korea,70,Female,103,1,1,1,1,1,Severe,Yes,1
+Armenia,30,Female,98,0,0,0,0,0,Mild,No,0
+Kazakhstan,35,Male,102,0,0,1,0,1,Moderate,Not known,0
+Iran,73,Male,103,1,0,1,1,1,Moderate,No,1
+Bulgaria,50,Male,101,1,0,0,1,0,Severe,Not known,0
+Cuba,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Ghana,82,Female,99,0,0,0,1,0,Mild,No,0
+Peru,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Ireland,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Singapore,45,Female,99,1,0,0,0,1,Mild,Not known,1
+Turkey,35,Male,100,0,0,1,0,0,Mild,No,0
+Jordan,24,Female,104,1,1,1,0,0,Moderate,No,1
+China,65,Male,98,1,0,0,0,1,Mild,No,0
+Kenya,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Maldives,18,Male,100,1,0,0,0,1,Mild,No,0
+New Zealand,55,Male,103,1,0,1,1,1,Moderate,No,1
+Armenia,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Kazakhstan,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Iran,18,Female,99,1,0,0,0,1,Mild,No,0
+Bulgaria,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Peru,24,Female,104,1,1,1,0,0,Moderate,No,0
+Ireland,65,Male,98,1,0,0,0,1,Mild,No,0
+Singapore,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Turkey,18,Male,100,1,0,0,0,1,Mild,No,0
+Georgia,37,Female,99,0,0,0,1,1,Mild,No,0
+USA,39,Male,100,1,0,0,1,1,Mild,No,0
+SanMario,35,Female,103,1,0,1,0,0,Mild,Not known,1
+Cyprus,18,Female,99,1,0,0,0,1,Mild,No,0
+Kenya,18,Female,99,1,0,0,0,1,Mild,No,0
+Georgia,55,Male,103,1,0,1,1,1,Moderate,No,1
+Jordan,55,Male,101,1,0,0,1,0,Severe,Not known,1
+SanMario,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Malta,50,Male,101,0,0,0,1,0,Mild,No,0
+Taiwan,65,Male,100,0,0,0,0,1,Mild,No,0
+Mauritius,55,Female,101,1,0,0,1,0,Mild,yes,1
+Bahrain,37,Female,100,0,1,0,0,0,Mild,No,0
+Bulgaria,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Yemen,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Nepal,39,Female,100,1,0,1,0,0,Mild,Not known,1
+China,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Armenia,65,Male,98,1,0,0,0,1,Mild,No,0
+Kazakhstan,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Iran,55,Male,103,1,0,1,1,1,Moderate,No,1
+Bulgaria,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Haiti,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Bulgaria,24,Female,104,1,1,1,0,0,Moderate,No,1
+Kenya,65,Male,98,1,0,0,0,1,Mild,No,0
+Georgia,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Jordan,18,Male,100,1,0,0,0,1,Mild,No,0
+SanMario,37,Female,99,0,0,0,1,1,Mild,No,0
+Malta,39,Male,100,1,0,0,1,1,Mild,No,0
+Taiwan,35,Female,103,1,0,1,0,0,Mild,Not known,1
+Mauritius,18,Female,99,1,0,0,0,1,Mild,No,0
+Georgia,37,Female,100,0,1,1,0,0,Mild,Yes,0
+Albania,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Uganda,45,Female,99,1,0,0,0,1,Mild,No,0
+Zimbabwe,55,Male,103,1,0,1,1,1,Moderate,No,1
+Bulgaria,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Taiwan,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Cyprus,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Armenia,45,Female,99,1,0,0,0,1,Mild,Not known,1
+Kazakhstan,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Iran,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Bulgaria,37,Female,100,0,1,0,0,0,Mild,No,0
+Bangladesh,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Netherlands,18,Female,99,1,0,0,1,1,Mild,Yes,1
+France,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Malta,55,Female,102,1,0,1,1,0,Severe,Yes,1
+South Africa,55,Male,103,1,0,1,1,1,Moderate,No,1
+Bulgaria,18,Male,100,1,0,0,0,1,Mild,No,0
+Thailand,37,Female,99,0,0,0,1,1,Mild,No,0
+Mongolia,39,Male,100,1,0,0,1,1,Mild,No,0
+Zimbabwe,35,Female,103,1,0,1,0,0,Mild,Not known,1
+Sweden,18,Female,99,1,0,0,0,1,Mild,No,0
+Fiji,37,Female,99,0,0,0,0,1,Mild,No,0
+Bhutan,24,Female,104,1,1,1,0,0,Moderate,No,0
+Greenland,65,Male,98,1,0,0,0,1,Mild,No,0
+Hungary,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Pakistan,18,Male,100,1,0,0,0,1,Mild,No,0
+Mongolia,37,Female,99,0,0,0,1,1,Mild,No,0
+Vietnam,55,Male,101,1,0,0,1,0,Severe,Not known,0
+China,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Vietnam,82,Female,99,0,0,0,1,0,Mild,No,0
+Kenya,40,Male,99,0,0,1,0,0,Mild,No,0
+Georgia,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Jordan,35,Female,101,1,0,0,1,1,Mild,Not known,0
+SanMario,37,Female,99,0,0,0,1,1,Mild,No,0
+Malta,55,Male,103,1,0,1,1,1,Moderate,No,1
+Taiwan,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Mauritius,75,Male,100,1,1,1,0,1,Mild,Yes,1
+China,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+New Zealand,45,Female,99,1,0,0,0,1,Mild,Not known,1
+Cyprus,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Kenya,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Georgia,18,Female,99,1,0,0,0,1,Mild,No,0
+Jordan,39,Female,100,0,0,1,0,0,Mild,Not known,0
+SanMario,55,Female,102,1,1,1,1,0,Severe,Yes,1
+Malta,73,Male,103,1,1,0,0,1,Mild,No,0
+Taiwan,55,Male,103,1,0,1,1,1,Moderate,No,1
+Mauritius,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Mexico,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Mongolia,24,Female,104,1,1,1,0,0,Moderate,No,0
+Zimbabwe,65,Male,98,1,0,0,0,1,Mild,No,0
+Sweden,65,Male,98,1,0,0,0,1,Mild,No,0
+Fiji,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Bhutan,18,Male,100,1,0,0,0,1,Mild,No,0
+Greenland,37,Female,99,0,0,0,1,1,Mild,No,0
+Hungary,39,Male,100,1,0,0,1,1,Mild,No,0
+Pakistan,35,Female,103,1,0,1,0,0,Mild,Not known,1
+Mongolia,18,Female,99,1,0,0,0,1,Mild,No,0
+Vietnam,70,Female,103,1,1,1,1,1,Severe,Yes,1
+China,30,Female,98,0,0,0,0,0,Mild,No,0
+Serbia,35,Male,102,0,0,1,0,1,Moderate,Not known,0
+Barbados,55,Male,103,1,0,1,1,1,Moderate,No,0
+Bulgaria,37,Female,100,0,1,0,0,0,Mild,No,0
+Vietnam,35,Female,104,1,0,1,0,0,Mild,Not known,1
+France,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Malta,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Taiwan,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Mauritius,55,Male,103,1,0,1,1,1,Moderate,No,1
+Congo,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Vietnam,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Zambia,24,Female,101,1,1,0,1,1,Moderate,Yes,1
+Hungary,16,Male,98,0,0,0,0,0,Mild,No,0
+Haiti,18,Female,101,1,1,1,1,0,Severe,Not known,1
+Liberia,24,Female,104,1,1,1,0,1,Severe,No,0
+Nepal,45,Female,101,1,0,0,1,0,Moderate,Not known,0
+Togo,55,Male,102,0,0,0,1,1,Mild,No,0
+Myanmar,73,Male,98,0,1,0,0,0,Mild,No,0
+Cambodia,55,Female,101,1,0,0,1,0,Mild,yes,0
+Finland,70,Male,103,1,0,0,1,1,Mild,No,0
+Morocco,55,Male,103,1,0,1,1,1,Moderate,No,1
+Japan,55,Male,101,1,0,0,1,0,Severe,Not known,1
+France,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Peru,45,Male,101,0,0,0,1,0,Mild,No,0
+Ireland,55,Male,100,0,0,0,0,1,Mild,No,1
+Singapore,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Turkey,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+China,45,Female,99,1,0,0,0,1,Mild,Not known,1
+Chile,55,Male,103,1,0,1,1,1,Moderate,No,1
+France,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Mongolia,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Zimbabwe,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Sweden,45,Female,99,1,0,0,0,1,Mild,Not known,1
+Fiji,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Bhutan,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Greenland,40,Male,99,0,0,1,0,0,Mild,No,0
+Hungary,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Pakistan,35,Female,101,1,0,0,1,1,Mild,Not known,0
+Mongolia,37,Female,99,0,0,0,1,1,Mild,No,0
+Vietnam,39,Male,100,1,0,0,1,1,Mild,No,0
+China,10,Male,102,1,0,0,0,1,Mild,No,0
+Myanmar,20,Male,103,1,1,0,0,0,Moderate,Not known,1
+Cambodia,45,Transgender,99,0,0,0,1,1,Mild,No,0
+Uganda,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Bulgaria,45,Male,98,0,1,1,1,0,Moderate,Yes,1
+Peru,45,Female,99,1,0,0,0,1,Mild,No,0
+Ireland,24,Female,98,0,0,0,0,1,Mild,No,0
+Singapore,37,Male,99,0,0,1,1,1,Moderate,Not known,0
+Turkey,65,Male,101,0,1,1,1,0,Moderate,Yes,1
+Finland,37,Female,100,0,1,0,0,0,Mild,No,0
+Morocco,35,Male,101,1,0,1,1,1,Severe,No,0
+Japan,55,Male,103,1,0,1,1,1,Moderate,No,1
+USA,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Iraq,75,Male,100,1,1,1,0,1,Mild,Yes,1
+China,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Somalia,45,Female,99,1,0,0,0,1,Mild,Not known,1
+Armenia,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Kazakhstan,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Iran,40,Male,99,0,0,1,0,0,Mild,No,0
+Bulgaria,55,Male,103,1,0,1,1,1,Moderate,Yes,1
+Albania,35,Female,101,1,0,0,1,1,Mild,Not known,0
+Peru,24,Female,104,1,1,1,0,0,Moderate,No,0
+Ireland,33,Male,100,1,0,0,1,1,Mild,Yes,1
+Singapore,37,Female,100,0,1,0,0,0,Mild,No,0
+Turkey,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Myanmar,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Cambodia,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Uganda,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Bulgaria,55,Male,103,1,0,1,1,1,Moderate,No,1
+Russia,39,Male,100,1,0,0,1,1,Mild,No,0
+New Zealand,55,Male,103,1,0,1,1,1,Moderate,No,1
+Canada,55,Male,101,1,0,0,1,0,Severe,Not known,1
+China,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Finland,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Morocco,45,Female,99,1,0,0,0,1,Mild,Not known,1
+Japan,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Vietnam,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Russia,37,Male,99,0,0,1,1,1,Moderate,Not known,0
+Albania,65,Male,101,0,1,1,1,0,Moderate,Yes,1
+France,37,Female,100,0,1,0,0,0,Mild,No,0
+Bulgaria,35,Male,101,1,0,1,1,1,Severe,No,0
+Hungary,70,Female,103,1,1,1,1,1,Severe,Yes,1
+USA,30,Female,98,0,0,0,0,0,Mild,No,0
+Serbia,35,Male,102,0,0,1,0,1,Moderate,Not known,0
+Norway,73,Male,103,1,0,1,1,1,Moderate,No,0
+Russia,50,Male,101,1,0,0,1,0,Severe,Not known,0
+Mexico,76,Male,100,1,1,1,0,1,Mild,Yes,1
+China,82,Female,99,0,0,0,1,0,Mild,No,0
+Romania,40,Male,99,0,0,1,0,0,Mild,No,0
+Jordan,55,Male,103,1,0,1,1,1,Moderate,Yes,1
+Ghana,35,Female,101,1,0,0,1,1,Mild,Not known,0
+Mexico,35,Male,100,0,0,1,0,0,Mild,No,0
+Egypt,55,Male,101,1,0,0,1,0,Severe,Not known,0
+Bahrain,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Cambodia,82,Female,99,0,0,0,1,0,Mild,No,0
+Russia,40,Male,99,0,0,1,0,0,Mild,No,0
+Chile,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Kuwait,35,Female,101,1,0,0,1,1,Mild,Not known,0
+Denmark,24,Female,104,1,1,1,0,0,Moderate,No,0
+Vietnam,65,Male,98,1,0,0,0,1,Mild,No,0
+Haiti,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Bulgaria,18,Male,100,1,0,0,0,1,Mild,No,0
+Thailand,37,Female,99,0,0,0,1,1,Mild,No,0
+Iraq,39,Male,100,1,0,0,1,1,Mild,No,0
+New Zealand,35,Female,103,1,0,1,0,0,Mild,Not known,1
+Canada,18,Female,99,1,0,0,0,1,Mild,No,0
+France,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Cyprus,82,Female,99,0,0,0,1,0,Mild,No,0
+Mexico,37,Female,100,0,1,0,0,0,Mild,No,0
+Turkey,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Ireland,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Fiji,39,Female,100,1,0,1,0,0,Mild,Not known,1
+France,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Barbados,55,Male,103,1,0,1,1,1,Moderate,No,1
+Denmark,18,Male,100,1,0,0,0,1,Mild,No,0
+Afghanistan,55,Male,103,1,0,1,1,1,Moderate,No,1
+Finland,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Uganda,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Ukraine,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Zimbabwe,45,Female,99,1,0,0,0,1,Mild,Not known,1
+Pakistan,37,Female,100,0,1,1,0,0,Mild,Yes,1
+China,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+South Africa,18,Female,99,1,0,0,0,1,Mild,No,0
+Mexico,39,Female,100,0,0,1,0,0,Mild,Not known,0
+USA,55,Female,102,1,1,1,1,0,Severe,Yes,1
+Armenia,73,Male,103,1,1,0,0,1,Mild,No,0
+Germany,50,Male,101,0,0,0,1,0,Mild,No,0
+India,65,Male,100,0,0,0,0,1,Mild,No,0
+Australia,37,Female,99,0,0,0,0,1,Mild,No,0
+Zimbabwe,24,Female,104,1,1,1,0,0,Moderate,No,0
+Singapore,65,Male,98,1,0,0,0,1,Mild,No,0
+Bulgaria,37,Male,99,0,0,1,1,1,Moderate,Not known,0
+France,40,Male,101,0,1,1,1,0,Moderate,Yes,1
+Japan,37,Female,100,0,1,0,0,0,Mild,No,0
+Kazakhstan,35,Male,101,1,0,1,1,1,Severe,No,0
+Panama,70,Female,103,1,1,1,1,1,Severe,Yes,0
+Zimbabwe,30,Female,98,0,0,0,0,0,Mild,No,0
+Mexico,35,Male,102,0,0,1,0,1,Moderate,Not known,0
+Myanmar,55,Male,103,1,0,1,1,1,Moderate,No,0
+Togo,55,Male,101,1,0,0,1,0,Severe,Not known,0
+Mongolia,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Zimbabwe,82,Female,99,0,0,0,1,0,Mild,No,0
+Sweden,40,Male,99,0,0,1,0,0,Mild,No,0
+Fiji,55,Transgender,99,0,0,0,1,1,Severe,No,0
+Bhutan,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Greenland,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Russia,45,Female,99,1,0,0,0,1,Mild,No,0
+Pakistan,24,Female,98,0,0,0,0,1,Mild,No,0
+Mongolia,37,Male,99,0,0,1,1,1,Moderate,Not known,0
+Vietnam,40,Male,101,0,1,1,1,0,Moderate,Yes,1
+China,37,Female,100,0,1,0,0,0,Mild,No,0
+SanMario,35,Male,101,1,0,1,1,1,Severe,No,0
+Finland,70,Female,103,1,1,1,1,1,Severe,Yes,1
+Fiji,37,Female,100,0,1,0,0,0,Mild,No,0
+Hungary,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Kenya,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Yemen,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Mexico,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Iraq,55,Male,103,1,0,1,1,1,Moderate,No,1
+New Zealand,40,Male,99,0,0,1,0,0,Mild,No,0
+USA,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Italy,35,Female,101,1,0,0,1,1,Mild,Not known,0
+Iran,35,Male,100,0,0,1,0,0,Mild,No,0
+Republic of Korean,37,Female,99,0,0,0,1,1,Mild,No,0
+France,55,Male,101,1,0,0,1,0,Severe,Not known,0
+Spain,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Malaysia,82,Female,99,0,0,0,1,0,Mild,No,0
+UAE,40,Male,99,0,0,1,0,0,Mild,No,0
+Russia,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Thailand,24,Female,104,1,1,1,0,0,Moderate,No,0
+UAE,65,Male,98,1,0,0,0,1,Mild,No,0
+Pakistan,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Zimbabwe,18,Male,100,1,0,0,0,1,Mild,No,0
+France,37,Female,99,0,0,0,1,1,Mild,No,0
+Nepal,39,Male,100,1,0,0,1,1,Mild,No,0
+Mexico,55,Male,103,1,0,1,1,1,Moderate,No,1
+India,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Republic of Korean,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Gabon,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Jordan,45,Female,99,1,0,0,0,1,Mild,Not known,1
+Liberia,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Iran,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Malta,55,Male,103,1,0,1,1,1,Moderate,No,1
+Taiwan,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Mauritius,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Congo,24,Female,104,1,1,1,0,0,Moderate,No,0
+Vietnam,65,Male,98,1,0,0,0,1,Mild,No,0
+Zambia,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Hungary,18,Male,100,1,0,0,0,1,Mild,No,0
+Haiti,37,Female,99,0,0,0,1,1,Mild,No,0
+Liberia,39,Male,100,1,0,0,1,1,Mild,No,0
+Nepal,35,Female,103,1,0,1,0,0,Mild,Not known,1
+Togo,18,Female,99,1,0,0,0,1,Mild,No,0
+Myanmar,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Cambodia,45,Female,99,1,0,0,0,1,Mild,No,0
+Thailand,24,Female,98,0,0,0,0,1,Mild,No,0
+Iraq,37,Male,99,0,0,1,1,1,Moderate,Not known,0
+New Zealand,37,Female,100,0,1,0,0,0,Mild,No,0
+Canada,35,Female,104,1,0,1,0,0,Mild,Not known,1
+France,55,Male,103,1,0,1,1,1,Moderate,No,1
+Sudan,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Malta,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Haiti,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Afghanistan,45,Female,99,1,0,0,0,1,Mild,Not known,1
+Bangladesh,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Georgia,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Estoria,82,Female,99,0,0,0,1,0,Mild,No,0
+Taiwan,40,Male,99,0,0,1,0,0,Mild,No,0
+China,10,Male,102,1,0,0,0,1,Mild,No,0
+Italy,20,Male,103,1,1,0,0,0,Moderate,Not known,1
+Iran,55,Transgender,99,0,0,0,1,1,Severe,No,0
+Republic of Korean,37,Female,100,0,1,1,0,0,Mild,Yes,1
+France,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Spain,45,Female,99,1,0,0,0,1,Mild,No,0
+Germany,24,Female,98,0,0,0,0,1,Mild,No,0
+UAE,37,Male,99,0,0,1,1,1,Moderate,Not known,0
+Russia,40,Male,101,0,1,1,1,0,Moderate,Yes,1
+Canada,37,Female,100,0,1,0,0,0,Mild,No,0
+China,35,Male,101,1,0,1,1,1,Severe,No,0
+Netherlands,70,Female,103,1,1,1,1,1,Severe,Yes,1
+Mexico,30,Female,98,0,0,0,0,0,Mild,No,0
+Pakistan,35,Male,102,0,0,1,0,1,Moderate,Not known,0
+Chile,55,Male,103,1,0,1,1,1,Moderate,No,0
+Sweden,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Peru,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Ireland,82,Female,99,0,0,0,1,0,Mild,No,0
+Singapore,40,Male,99,0,0,1,0,0,Mild,No,0
+Turkey,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Russia,35,Female,101,1,0,0,1,1,Mild,Not known,0
+France,35,Male,100,0,0,1,0,0,Mild,No,0
+Iran,37,Male,99,0,0,0,0,0,Mild,No,0
+Pakistan,24,Female,101,1,1,0,1,1,Moderate,Yes,1
+India,16,Male,98,0,0,0,0,0,Mild,No,0
+Sweden,55,Male,103,1,0,1,1,1,Moderate,No,1
+Australia,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Malaysia,55,Male,103,1,0,1,1,1,Moderate,No,1
+Argentina,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Kuwait,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Morocco,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Afghanistan,45,Female,99,1,0,0,0,1,Mild,Not known,1
+Finland,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Norway,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Singapore,18,Male,102,0,1,0,1,0,Moderate,Yes,1
+Ireland,37,Male,98,0,0,0,0,1,Mild,No,0
+Canada,37,Female,100,0,1,1,0,0,Mild,Yes,1
+France,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Bangladesh,45,Female,99,1,0,0,0,1,Mild,Not known,1
+South Korea,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Indonesia,73,Male,103,1,1,0,0,1,Mild,No,0
+Denmark,45,Male,101,0,0,0,1,0,Mild,No,0
+Romania,55,Male,100,0,0,0,0,1,Mild,No,0
+Ukraine,55,Male,103,1,0,1,1,1,Moderate,No,1
+Serbia,55,Male,101,1,0,0,1,0,Severe,Not known,1
+USA,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Egypt,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Thailand,18,Male,100,1,0,0,0,1,Mild,No,0
+Iraq,37,Female,99,0,0,0,1,1,Mild,No,0
+New Zealand,39,Male,100,1,0,0,1,1,Mild,No,0
+Canada,35,Female,103,1,0,1,0,0,Mild,Not known,1
+France,18,Female,99,1,0,0,0,1,Mild,No,0
+Bangladesh,39,Female,100,0,0,1,0,0,Mild,Not known,0
+South Korea,55,Female,102,1,1,1,1,0,Severe,Yes,1
+Indonesia,73,Male,103,1,1,0,0,1,Mild,No,0
+Denmark,50,Male,101,0,0,0,1,0,Mild,No,0
+Romania,65,Male,100,0,0,0,0,1,Mild,No,0
+Ukraine,37,Female,99,0,0,0,0,1,Mild,No,0
+Japan,24,Female,104,1,1,1,0,0,Moderate,No,0
+South Africa,65,Male,98,1,0,0,0,1,Mild,No,0
+Egypt,55,Male,103,1,0,1,1,1,Moderate,No,1
+USA,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Iraq,75,Male,100,1,1,1,0,1,Mild,Yes,1
+New Zealand,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+USA,45,Female,99,1,0,0,0,1,Mild,Not known,1
+Italy,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Iran,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Republic of Korean,37,Female,100,0,1,0,0,0,Mild,No,0
+France,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Spain,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Malaysia,39,Female,100,1,0,1,0,0,Mild,Not known,1
+UAE,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Russia,55,Male,103,1,0,1,1,1,Moderate,No,1
+Canada,37,Female,100,0,1,0,0,0,Mild,No,0
+China,35,Male,101,1,0,1,1,1,Severe,No,0
+Netherlands,70,Female,103,1,1,1,1,1,Severe,Yes,1
+Mexico,30,Female,98,0,0,0,0,0,Mild,No,0
+Pakistan,35,Male,102,0,0,1,0,1,Moderate,Not known,0
+Chile,73,Male,103,1,0,1,1,1,Moderate,No,0
+Sweden,50,Male,101,1,0,0,1,0,Severe,Not known,0
+Peru,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Ireland,82,Female,99,0,0,0,1,0,Mild,No,0
+Singapore,40,Male,99,0,0,1,0,0,Mild,No,0
+Turkey,55,Male,103,1,0,1,1,1,Moderate,Yes,1
+Russia,35,Female,101,1,0,0,1,1,Mild,Not known,0
+France,35,Male,100,0,0,1,0,0,Mild,No,0
+Iran,37,Male,99,0,0,0,0,0,Mild,No,0
+Slovakia,24,Female,101,1,1,0,1,1,Moderate,Yes,1
+Somalia,35,Male,102,0,0,1,0,1,Moderate,Not known,0
+Chile,50,Male,103,1,0,1,1,1,Moderate,No,0
+Sweden,35,Male,101,1,0,0,1,0,Severe,Not known,0
+Peru,55,Male,103,1,0,1,1,1,Moderate,No,1
+Sri Lanka,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Singapore,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Turkey,73,Male,103,1,0,1,1,1,Moderate,Yes,1
+Russia,35,Female,101,1,0,0,1,1,Mild,Not known,0
+Oman,35,Male,100,0,0,1,0,0,Mild,No,0
+Iran,37,Male,99,0,0,0,0,0,Mild,No,0
+Slovakia,24,Female,101,1,1,0,1,1,Moderate,Yes,1
+China,10,Male,102,1,0,0,0,1,Mild,No,0
+Italy,20,Male,103,1,1,0,0,0,Moderate,Not known,0
+Iran,40,Transgender,99,0,0,0,1,1,Mild,No,0
+Republic of Korean,37,Female,100,0,1,1,0,0,Mild,Yes,1
+France,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Spain,45,Female,99,1,0,0,0,1,Mild,No,0
+Germany,24,Female,98,0,0,0,0,1,Mild,No,0
+UAE,37,Male,99,0,0,1,1,1,Moderate,Not known,0
+Russia,45,Male,101,0,1,1,1,0,Moderate,Yes,1
+Canada,37,Female,100,0,1,0,0,0,Mild,No,0
+China,35,Male,101,1,0,1,1,1,Severe,No,0
+Netherlands,70,Female,103,1,1,1,1,1,Severe,Yes,1
+Mexico,30,Female,98,0,0,0,0,0,Mild,No,0
+Pakistan,35,Male,102,0,0,1,0,1,Moderate,Not known,1
+Chile,35,Male,103,1,0,1,1,1,Moderate,No,0
+Sweden,20,Male,101,1,0,0,1,0,Severe,Not known,1
+Peru,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Ireland,82,Female,99,0,0,0,1,0,Mild,No,0
+Singapore,40,Male,99,0,0,1,0,0,Mild,No,0
+Turkey,23,Male,103,1,0,1,1,1,Moderate,Yes,1
+Russia,35,Female,101,1,0,0,1,1,Mild,Not known,1
+France,35,Male,100,0,0,1,0,0,Mild,No,0
+Iran,37,Male,99,0,0,0,0,0,Mild,No,0
+Pakistan,24,Female,101,1,1,0,1,1,Moderate,Yes,1
+India,16,Male,98,0,0,0,0,0,Mild,No,0
+Sweden,18,Female,101,1,1,1,1,0,Severe,Not known,1
+Australia,24,Female,104,1,1,1,0,1,Severe,No,0
+Malaysia,45,Female,101,1,0,0,1,0,Moderate,Not known,1
+Argentina,37,Female,100,0,1,0,0,0,Mild,No,0
+Kuwait,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Morocco,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Afghanistan,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Finland,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Norway,55,Male,103,1,0,1,1,1,Moderate,No,1
+Belgium,18,Male,102,0,1,0,1,0,Moderate,Yes,0
+Ireland,37,Male,98,0,0,0,0,1,Mild,No,0
+Canada,35,Female,104,1,0,1,0,0,Mild,Not known,1
+France,18,Female,99,1,0,0,0,1,Mild,No,0
+Bangladesh,39,Female,100,0,0,1,0,0,Mild,Not known,0
+South Korea,55,Female,102,1,1,1,1,0,Severe,Yes,1
+Indonesia,73,Male,103,1,1,0,0,1,Mild,No,0
+Denmark,45,Male,101,0,0,0,1,0,Mild,No,0
+Japan,33,Male,100,1,0,0,1,1,Mild,Yes,1
+Ukraine,35,Female,103,1,0,1,0,0,Mild,Not known,1
+Serbia,18,Female,99,1,0,0,0,1,Mild,Not known,1
+USA,65,Male,98,1,0,0,0,1,Mild,No,0
+Egypt,18,Male,101,1,1,1,1,0,Severe,Not known,1
+Thailand,18,Male,100,1,0,0,0,1,Mild,No,0
+Iraq,37,Female,99,0,0,0,1,1,Mild,No,0
+New Zealand,39,Male,100,1,0,0,1,1,Mild,No,0
+Canada,35,Female,104,1,0,1,0,0,Mild,Not known,1
+France,18,Female,99,1,0,0,0,1,Mild,No,0
+Bangladesh,39,Female,100,0,0,1,0,0,Mild,Not known,0
+South Korea,55,Female,102,1,1,1,1,0,Severe,Yes,1
+Indonesia,73,Male,103,1,1,0,0,1,Mild,No,0
+Denmark,50,Male,101,0,0,0,1,0,Mild,No,0
+Romania,65,Male,100,0,0,0,0,1,Mild,No,0
+Ukraine,37,Female,99,0,0,0,0,1,Mild,No,0
+Japan,24,Female,104,1,1,1,0,0,Moderate,No,0
+South Africa,65,Male,98,1,0,0,0,1,Mild,No,0
+Egypt,73,Male,101,1,1,1,1,0,Severe,Not known,1
+USA,18,Male,100,1,0,0,0,1,Mild,No,0
+Iraq,37,Female,99,0,0,0,1,1,Mild,No,0
+New Zealand,39,Male,100,1,0,0,1,1,Mild,No,0
+USA,10,Male,102,1,0,0,0,1,Mild,No,0
+Italy,20,Male,103,1,1,0,0,0,Moderate,Not known,1
+Iran,55,Transgender,99,0,0,0,1,1,Mild,No,0
+Republic of Korean,37,Female,100,0,1,1,0,0,Mild,Yes,1
+France,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Spain,45,Female,99,1,0,0,0,1,Mild,No,0
+Malaysia,24,Female,98,0,0,0,0,1,Mild,No,0
+UAE,37,Male,99,0,0,1,1,1,Moderate,Not known,0
+Russia,18,Male,101,0,1,1,1,0,Moderate,Yes,1
+Canada,37,Female,100,0,1,0,0,0,Mild,No,0
+China,35,Male,101,1,0,1,1,1,Severe,No,0
+Netherlands,70,Female,103,1,1,1,1,1,Severe,Yes,1
+Mexico,30,Female,98,0,0,0,0,0,Mild,No,0
+Pakistan,35,Male,102,0,0,1,0,1,Moderate,Not known,0
+Chile,65,Male,103,1,0,1,1,1,Moderate,No,0
+Sweden,24,Male,101,1,0,0,1,0,Severe,Not known,0
+Peru,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Ireland,82,Female,99,0,0,0,1,0,Mild,No,0
+Singapore,55,Male,103,1,0,1,1,1,Moderate,No,1
+Turkey,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Russia,75,Male,100,1,1,1,0,1,Mild,Yes,1
+France,35,Male,100,0,0,1,0,0,Mild,No,0
+Iran,37,Male,99,0,0,0,0,0,Mild,No,0
+Slovakia,24,Female,101,1,1,0,1,1,Moderate,Yes,1
+Somalia,35,Male,102,0,0,1,0,1,Moderate,Not known,1
+Chile,35,Male,103,1,0,1,1,1,Moderate,No,0
+Sweden,39,Male,100,1,0,0,1,1,Mild,Yes,1
+Peru,35,Female,103,1,0,1,0,0,Mild,Not known,1
+Sri Lanka,18,Female,99,1,0,0,0,1,Mild,Not known,1
+Singapore,40,Male,99,0,0,1,0,0,Mild,No,0
+Turkey,18,Male,103,1,0,1,1,1,Moderate,Yes,1
+Russia,35,Female,101,1,0,0,1,1,Mild,Not known,0
+Oman,35,Male,100,0,0,1,0,0,Mild,No,0
+Iran,37,Male,99,0,0,0,0,0,Mild,No,0
+Slovakia,24,Female,101,1,1,0,1,1,Moderate,Yes,1
+Romania,76,Male,100,1,1,0,1,1,Severe,Not known,1
+China,10,Male,102,1,0,0,0,1,Mild,No,0
+Italy,20,Male,103,1,1,0,0,0,Moderate,Not known,1
+Iran,55,Transgender,99,0,0,0,1,1,Severe,No,0
+Republic of Korean,37,Female,100,0,1,1,0,0,Mild,Yes,1
+France,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Spain,45,Female,99,1,0,0,0,1,Mild,No,0
+Singapore,24,Female,98,0,0,0,0,1,Mild,No,0
+Ireland,37,Male,99,0,0,1,1,1,Moderate,Not known,0
+Canada,37,Female,100,0,1,1,0,0,Mild,Yes,1
+France,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Bangladesh,45,Female,99,1,0,0,0,1,Mild,Not known,1
+South Korea,70,Female,103,1,1,1,1,1,Severe,Yes,1
+Indonesia,37,Female,100,0,1,0,0,0,Mild,No,0
+Denmark,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Romania,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Ukraine,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Serbia,55,Female,102,1,0,1,1,0,Severe,Yes,1
+USA,55,Male,103,1,0,1,1,1,Moderate,No,1
+Egypt,40,Male,99,0,0,1,0,0,Mild,No,1
+Thailand,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Kazakhstan,35,Female,101,1,0,0,1,1,Mild,Not known,0
+New Zealand,35,Male,100,0,0,1,0,0,Mild,No,0
+Romania,37,Male,99,0,0,0,0,0,Mild,No,0
+France,24,Female,101,1,1,0,1,1,Moderate,Yes,1
+India,16,Male,98,0,0,0,0,0,Mild,No,0
+Sweden,18,Female,101,1,1,1,1,0,Severe,Not known,1
+Australia,24,Female,104,1,1,1,0,1,Severe,No,0
+Bahrain,45,Female,101,1,0,0,1,0,Moderate,Not known,1
+Argentina,55,Male,102,0,0,0,1,1,Mild,No,0
+Kuwait,73,Male,98,0,1,0,0,0,Mild,No,0
+Morocco,55,Male,103,1,0,1,1,1,Moderate,No,1
+Afghanistan,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Finland,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Norway,35,Female,99,0,1,0,0,1,Mild,No,0
+Singapore,18,Male,102,0,1,0,1,0,Moderate,Yes,1
+Ireland,37,Male,98,0,0,0,0,1,Mild,No,0
+Canada,35,Female,104,1,0,1,0,0,Mild,Not known,1
+USA,18,Female,99,1,0,0,0,1,Mild,No,0
+Bangladesh,39,Female,100,1,0,1,0,0,Mild,Not known,1
+South Korea,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Indonesia,73,Male,103,1,1,0,0,1,Mild,No,0
+Denmark,45,Male,101,0,0,0,1,0,Mild,No,0
+Iraq,55,Male,100,0,0,0,0,1,Mild,No,1
+Ukraine,37,Female,99,0,0,0,0,1,Mild,No,0
+Nigeria,24,Female,104,1,1,1,0,0,Moderate,No,0
+USA,65,Male,98,1,0,0,0,1,Mild,No,0
+Egypt,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Thailand,18,Male,100,1,0,0,0,1,Mild,No,0
+Kazakhstan,37,Female,99,0,0,0,1,1,Mild,No,0
+New Zealand,39,Male,100,1,0,0,1,1,Mild,No,0
+Romania,35,Female,103,1,0,1,0,0,Mild,Not known,1
+France,18,Female,99,1,0,0,0,1,Mild,No,0
+Bangladesh,39,Female,100,0,0,1,0,0,Mild,Not known,0
+Hungary,55,Female,102,1,1,1,1,0,Severe,Yes,1
+Indonesia,73,Male,103,1,1,0,0,1,Mild,No,0
+Denmark,50,Male,101,0,0,0,1,0,Mild,No,0
+Romania,65,Male,100,0,0,0,0,1,Mild,No,0
+Ukraine,37,Female,99,0,0,0,0,1,Mild,No,0
+Japan,24,Female,104,1,1,1,0,0,Moderate,No,0
+South Africa,65,Male,98,1,0,0,0,1,Mild,No,0
+Egypt,39,Male,101,1,1,1,1,0,Severe,Not known,1
+USA,18,Male,100,1,0,0,0,1,Mild,No,0
+Iraq,37,Female,99,0,0,0,1,1,Mild,No,0
+Philippines,39,Male,100,1,0,0,1,1,Mild,No,0
+USA,10,Male,102,1,0,0,0,1,Mild,No,0
+Italy,20,Male,103,1,1,0,0,0,Moderate,Not known,0
+Oman,37,Female,100,0,1,0,0,0,Mild,No,0
+Nigeria,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Finland,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Armenia,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Kazakhstan,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Iran,55,Male,103,1,0,1,1,1,Moderate,No,1
+Bulgaria,18,Male,100,1,0,0,0,1,Mild,No,0
+Cuba,37,Female,99,0,0,0,1,1,Mild,No,0
+Sudan,39,Male,100,1,0,0,1,1,Mild,No,0
+Estoria,18,Female,99,1,0,0,0,1,Mild,No,0
+CostaRica,39,Female,100,0,0,1,0,0,Mild,Not known,0
+Sri Lanka,55,Female,102,1,1,1,1,0,Severe,Yes,1
+Gabon,73,Male,103,1,1,0,0,1,Mild,No,0
+Maldives,50,Male,101,0,0,0,1,0,Mild,No,0
+Albania,65,Male,100,0,0,0,0,1,Mild,No,0
+Cyprus,37,Female,99,0,0,0,0,1,Mild,No,0
+Kenya,24,Female,104,1,1,1,0,0,Moderate,No,0
+Georgia,65,Male,98,1,0,0,0,1,Mild,No,0
+Jordan,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+SanMario,39,Male,100,1,0,0,1,1,Mild,Yes,1
+Malta,35,Female,103,1,0,1,0,0,Mild,Not known,1
+Taiwan,18,Female,99,1,0,0,0,1,Mild,Not known,1
+Mauritius,40,Male,101,0,1,1,1,0,Moderate,Yes,1
+Congo,37,Female,100,0,1,0,0,0,Mild,No,0
+Vietnam,35,Male,101,1,0,1,1,1,Severe,No,0
+Zambia,70,Female,103,1,1,1,1,1,Severe,Yes,1
+Hungary,30,Female,98,0,0,0,0,0,Mild,No,0
+Haiti,55,Male,103,1,0,1,1,1,Moderate,No,1
+Liberia,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Nepal,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Togo,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Myanmar,82,Female,99,0,0,0,1,0,Mild,No,0
+Cambodia,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Uganda,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Bermuda,45,Female,99,1,0,0,0,1,Mild,Not known,1
+Monaco,35,Male,100,0,0,1,0,0,Mild,No,0
+Barbados,45,Male,101,0,0,0,1,0,Mild,No,0
+Cuba,55,Male,100,0,0,0,0,1,Mild,No,1
+Myanmar,37,Female,99,0,0,0,0,1,Mild,No,0
+Nepal,24,Female,104,1,1,1,0,0,Moderate,No,0
+Yemen,65,Male,98,1,0,0,0,1,Mild,No,0
+Syria,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Mongolia,18,Male,100,1,0,0,0,1,Mild,No,0
+Zimbabwe,37,Female,99,0,0,0,1,1,Mild,No,0
+Sweden,39,Male,100,1,0,0,1,1,Mild,No,0
+Fiji,24,Female,104,1,1,1,0,0,Moderate,No,0
+Bhutan,65,Male,98,1,0,0,0,1,Mild,No,0
+Greenland,10,Male,102,1,0,0,0,1,Mild,No,0
+Hungary,20,Male,103,1,1,0,0,0,Moderate,Not known,0
+Pakistan,55,Transgender,99,0,0,0,1,1,Severe,No,0
+Mongolia,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Vietnam,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+China,45,Female,99,1,0,0,0,1,Mild,No,0
+USA,24,Female,98,0,0,0,0,1,Mild,No,0
+Chile,37,Male,99,0,0,1,1,1,Moderate,Not known,0
+Ukraine,40,Male,101,0,1,1,1,0,Moderate,Yes,1
+Poland,37,Female,100,0,1,0,0,0,Mild,No,0
+Australia,35,Male,101,1,0,1,1,1,Severe,No,0
+Japan,70,Female,103,1,1,1,1,1,Severe,Yes,1
+Romania,30,Female,98,0,0,0,0,0,Mild,No,0
+Indonesia,35,Male,102,0,0,1,0,1,Moderate,Not known,0
+Philippines,55,Male,103,1,0,1,1,1,Moderate,No,0
+Israel,55,Male,101,1,0,0,1,0,Severe,Not known,0
+UAE,76,Male,100,1,1,1,0,1,Mild,Yes,1
+South Africa,18,Female,99,1,0,0,0,1,Mild,No,0
+Austria,39,Female,100,0,0,1,0,0,Mild,Not known,0
+Kuwait,55,Female,102,1,1,1,1,0,Severe,Yes,1
+Egypt,73,Male,103,1,1,0,0,1,Mild,No,0
+Serbia,50,Male,101,0,0,0,1,0,Mild,No,0
+Czechia,37,Female,100,0,1,0,0,0,Mild,No,0
+Panama,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Norway,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Malaysia,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Denmark,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Argentina,55,Male,103,1,0,1,1,1,Moderate,No,1
+Finland,55,Male,103,1,0,1,1,1,Moderate,No,0
+Morocco,55,Male,101,1,0,0,1,0,Severe,Not known,0
+Japan,76,Male,100,1,1,1,0,1,Mild,Yes,1
+China,82,Female,99,0,0,0,1,0,Mild,No,0
+USA,40,Male,99,0,0,1,0,0,Mild,No,0
+UAE,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+India,35,Female,101,1,0,0,1,1,Mild,Not known,1
+New Zealand,35,Male,100,0,0,1,0,0,Mild,No,0
+Netherlands,37,Male,99,0,0,0,0,0,Mild,No,0
+Sudan,24,Female,101,1,1,0,1,1,Moderate,Yes,1
+Poland,16,Male,98,0,0,0,0,0,Mild,No,0
+Singapore,18,Female,101,1,1,1,1,0,Severe,Not known,1
+Switzerland,24,Female,104,1,1,1,0,1,Severe,No,0
+Nepal,45,Female,101,1,0,0,1,0,Moderate,Not known,1
+Russia,55,Male,102,0,0,0,1,1,Mild,No,0
+Syria,73,Male,98,0,1,0,0,0,Mild,No,0
+Ghana,55,Female,101,1,0,0,1,0,Mild,yes,1
+Moldova,70,Male,103,1,0,0,1,1,Mild,No,0
+Vietnam,24,Male,98,0,0,0,0,0,Mild,No,0
+France,35,Female,99,0,1,0,0,1,Mild,No,0
+Singapore,18,Male,102,0,1,0,1,0,Moderate,Yes,1
+Bulgaria,55,Male,101,1,0,0,1,0,Severe,Not known,0
+Finland,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Morocco,82,Female,99,0,0,0,1,0,Mild,No,0
+Japan,40,Male,99,0,0,1,0,0,Mild,No,0
+China,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Myanmar,35,Female,101,1,0,1,1,1,Mild,Not known,1
+Cambodia,24,Female,104,1,1,1,0,0,Moderate,No,0
+Uganda,65,Male,98,1,0,0,0,1,Mild,No,0
+Bulgaria,70,Male,101,1,1,1,1,0,Severe,Not known,1
+France,18,Male,100,1,0,0,0,1,Mild,No,0
+Peru,37,Female,99,0,0,0,1,1,Mild,No,0
+Ireland,39,Male,100,1,0,0,1,1,Mild,No,0
+Singapore,35,Female,103,1,0,1,0,0,Mild,Not known,1
+Turkey,18,Female,99,1,0,0,0,1,Mild,No,0
+Bulgaria,35,Female,101,1,0,0,1,1,Mild,Not known,1
+New Zealand,20,Male,103,1,1,0,0,0,Moderate,Not known,1
+Canada,55,Transgender,99,0,0,0,1,1,Severe,No,0
+Vietnam,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Myanmar,37,Female,100,0,1,0,0,0,Mild,No,0
+Cambodia,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Uganda,18,Female,99,1,0,0,1,1,Mild,Yes,1
+France,39,Female,100,1,0,1,0,0,Mild,Not known,1
+China,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Vietnam,55,Male,103,1,0,1,1,1,Moderate,No,1
+Slovakia,35,Male,101,1,0,1,1,1,Severe,No,0
+Peru,70,Female,103,1,1,1,1,1,Severe,Yes,1
+Ireland,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Singapore,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Turkey,45,Female,99,1,0,0,0,1,Mild,Not known,1
+New Zealand,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Canada,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Bulgaria,82,Female,99,0,0,0,1,0,Mild,No,0
+Afghanistan,40,Male,99,0,0,1,0,0,Mild,No,0
+Bhutan,55,Transgender,99,0,0,0,1,1,Severe,No,0
+Greenland,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Hungary,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Pakistan,45,Female,99,1,0,0,0,1,Mild,No,0
+Mongolia,24,Female,98,0,0,0,0,1,Mild,No,0
+Vietnam,37,Male,99,0,0,1,1,1,Moderate,Not known,0
+Maldives,40,Male,101,0,1,1,1,0,Moderate,Yes,1
+China,37,Female,100,0,1,0,0,0,Mild,No,0
+Vietnam,35,Male,101,1,0,1,1,1,Severe,No,0
+Republic of Korean,70,Female,103,1,1,1,1,1,Severe,Yes,1
+Bulgaria,30,Female,98,0,0,0,0,0,Mild,No,0
+Haiti,35,Male,102,0,0,1,0,1,Moderate,Not known,0
+France,55,Male,103,1,0,1,1,1,Moderate,No,0
+Thailand,55,Male,101,1,0,0,1,0,Severe,Not known,0
+Iraq,37,Female,100,0,1,1,0,0,Mild,Yes,1
+New Zealand,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Canada,45,Female,99,1,0,0,0,1,Mild,Not known,1
+France,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Thailand,55,Male,103,1,0,1,1,1,Moderate,No,1
+UAE,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Vietnam,75,Male,100,1,1,1,0,1,Mild,Yes,1
+New Zealand,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Canada,18,Male,100,1,0,0,0,1,Mild,No,0
+Ukraine,37,Female,99,0,0,0,1,1,Mild,No,0
+Thailand,39,Male,100,1,0,0,1,1,Mild,No,0
+Iraq,35,Female,103,1,0,1,0,0,Mild,Not known,1
+New Zealand,18,Female,99,1,0,0,0,1,Mild,No,0
+Canada,82,Female,99,0,0,0,1,0,Mild,No,0
+France,40,Male,99,0,0,1,0,0,Mild,No,0
+Myanmar,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Cambodia,35,Female,101,1,0,0,1,1,Mild,Not known,1
+Uganda,37,Male,99,0,0,1,1,1,Moderate,Not known,0
+Bulgaria,40,Male,101,0,1,1,1,0,Moderate,Yes,1
+Finland,39,Female,100,0,0,1,0,0,Mild,Not known,0
+Morocco,55,Female,102,1,1,1,1,0,Severe,Yes,1
+Japan,73,Male,103,1,1,0,0,1,Mild,No,0
+Belgium,50,Male,101,0,0,0,1,0,Mild,No,0
+China,65,Male,100,0,0,0,0,1,Mild,No,0
+Cyprus,37,Female,99,0,0,0,0,1,Mild,No,0
+Kenya,24,Female,104,1,1,1,0,0,Moderate,No,0
+Georgia,65,Male,98,1,0,0,0,1,Mild,No,0
+Jordan,37,Female,99,0,0,0,1,1,Mild,No,0
+SanMario,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Malta,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Taiwan,37,Female,99,0,0,0,1,1,Mild,No,0
+Mauritius,55,Male,101,1,0,0,1,0,Severe,Not known,0
+Myanmar,39,Male,100,1,0,0,1,1,Mild,Yes,1
+Cambodia,35,Female,103,1,0,1,0,0,Mild,Not known,1
+Uganda,18,Female,99,1,0,0,0,1,Mild,Not known,1
+Oman,65,Male,98,1,0,0,0,1,Mild,No,0
+Peru,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Ireland,18,Male,100,1,0,0,0,1,Mild,No,0
+Singapore,37,Female,99,0,0,0,1,1,Mild,No,0
+Turkey,39,Male,100,1,0,0,1,1,Mild,No,0
+Russia,18,Female,99,1,0,0,0,1,Mild,No,0
+France,39,Female,100,0,0,1,0,0,Mild,Not known,0
+Myanmar,55,Female,102,1,1,1,1,0,Severe,Yes,1
+Cambodia,37,Female,100,0,1,0,0,0,Mild,No,0
+Uganda,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Bhutan,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Greenland,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Hungary,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Pakistan,55,Male,103,1,0,1,1,1,Moderate,No,1
+Mongolia,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Vietnam,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Mexico,82,Female,99,0,0,0,1,0,Mild,No,0
+Peru,40,Male,99,0,0,1,0,0,Mild,No,0
+Ireland,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Singapore,35,Female,101,1,0,0,1,1,Mild,Not known,1
+Turkey,55,Transgender,99,0,0,0,1,1,Severe,No,0
+Russia,39,Male,100,1,0,0,1,1,Mild,Yes,1
+France,35,Female,103,1,0,1,0,0,Mild,Not known,1
+France,18,Female,99,1,0,0,0,1,Mild,Not known,1
+China,24,Female,98,0,0,0,0,1,Mild,No,0
+New Zealand,37,Male,99,0,0,1,1,1,Moderate,Not known,0
+Canada,40,Male,101,0,1,1,1,0,Moderate,Yes,1
+Bulgaria,37,Female,100,0,1,0,0,0,Mild,No,0
+Vietnam,35,Male,101,1,0,1,1,1,Severe,No,0
+France,70,Female,103,1,1,1,1,1,Severe,Yes,1
+Myanmar,30,Female,98,0,0,0,0,0,Mild,No,0
+Cambodia,35,Male,102,0,0,1,0,1,Moderate,Not known,0
+Uganda,55,Male,103,1,0,1,1,1,Moderate,No,0
+Mexico,55,Male,101,1,0,0,1,0,Severe,Not known,0
+Armenia,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Kazakhstan,55,Male,103,1,0,1,1,1,Moderate,No,1
+Iran,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Bulgaria,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Finland,35,Female,101,1,0,0,1,1,Mild,Not known,1
+Morocco,35,Male,100,0,0,1,0,0,Mild,No,0
+Japan,65,Male,100,0,0,0,0,1,Mild,No,0
+Oman,37,Female,99,0,0,0,0,1,Mild,No,0
+Bulgaria,24,Female,104,1,1,1,0,0,Moderate,No,0
+Vietnam,65,Male,98,1,0,0,0,1,Mild,No,0
+Mexico,39,Male,101,1,1,1,1,0,Severe,Not known,1
+Bhutan,18,Male,100,1,0,0,0,1,Mild,No,0
+Greenland,37,Female,99,0,0,0,1,1,Mild,No,0
+Hungary,39,Male,100,1,0,0,1,1,Mild,No,0
+Pakistan,10,Male,102,1,0,0,0,1,Mild,No,0
+Mongolia,20,Male,103,1,1,0,0,0,Moderate,Not known,0
+Vietnam,45,Transgender,99,0,0,0,1,1,Mild,No,0
+China,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Peru,45,Male,98,0,1,1,1,0,Moderate,Yes,1
+France,45,Female,99,1,0,0,0,1,Mild,No,0
+Peru,24,Female,104,1,1,1,0,0,Moderate,No,0
+Ireland,65,Male,98,1,0,0,0,1,Mild,No,0
+Singapore,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Turkey,18,Male,100,1,0,0,0,1,Mild,No,0
+Russia,37,Female,99,0,0,0,1,1,Mild,No,0
+France,39,Male,100,1,0,0,1,1,Mild,No,0
+Finland,35,Female,103,1,0,1,0,0,Mild,Not known,1
+Morocco,18,Female,99,1,0,0,0,1,Mild,No,0
+Japan,35,Female,101,1,0,0,1,1,Mild,Not known,0
+Mexico,55,Transgender,99,0,0,0,1,1,Severe,No,0
+New Zealand,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Canada,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+China,45,Female,99,1,0,0,0,1,Mild,No,0
+India,24,Female,98,0,0,0,0,1,Mild,No,0
+Bulgaria,37,Male,99,0,0,1,1,1,Moderate,Not known,0
+Oman,40,Male,101,0,1,1,1,0,Moderate,Yes,1
+CostaRica,37,Female,100,0,1,0,0,0,Mild,No,0
+Sri Lanka,35,Male,101,1,0,1,1,1,Severe,No,0
+Gabon,70,Female,103,1,1,1,1,1,Severe,Yes,1
+Maldives,30,Female,98,0,0,0,0,0,Mild,No,0
+Albania,35,Male,102,0,0,1,0,1,Moderate,Not known,0
+Cyprus,55,Male,103,1,0,1,1,1,Moderate,No,1
+Kenya,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Armenia,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Egypt,82,Female,99,0,0,0,1,0,Mild,No,0
+Bhutan,40,Male,99,0,0,1,0,0,Mild,No,1
+Greenland,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Hungary,35,Female,101,1,0,0,1,1,Mild,Not known,1
+Pakistan,35,Male,100,0,0,1,0,0,Mild,No,0
+Mongolia,65,Male,100,0,0,0,0,1,Mild,No,0
+Vietnam,37,Female,99,0,0,0,0,1,Mild,No,0
+Vietnam,24,Female,104,1,1,1,0,0,Moderate,No,0
+Nigeria,65,Male,98,1,0,0,0,1,Mild,No,0
+Bulgaria,39,Male,101,1,1,1,1,0,Severe,Not known,1
+Mexico,18,Male,100,1,0,0,0,1,Mild,No,0
+Moldova,37,Female,99,0,0,0,1,1,Mild,No,0
+Somalia,39,Male,100,1,0,0,1,1,Mild,No,0
+USA,10,Male,102,1,0,0,0,1,Mild,No,0
+Thailand,20,Male,103,1,1,0,0,0,Moderate,Not known,0
+Iraq,45,Transgender,99,0,0,0,1,1,Mild,No,0
+New Zealand,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Canada,45,Male,98,0,1,1,1,0,Moderate,No,0
+France,45,Female,99,1,0,0,0,1,Mild,No,0
+Fiji,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Romania,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Turkey,45,Female,99,1,0,0,0,1,Mild,Not known,1
+Armenia,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Kazakhstan,82,Female,99,0,0,0,1,0,Mild,No,0
+Iran,40,Male,99,0,0,1,0,0,Mild,No,0
+Bulgaria,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Peru,35,Female,101,1,0,0,1,1,Mild,Not known,1
+Ireland,35,Male,100,0,0,1,0,0,Mild,No,0
+Singapore,37,Male,99,0,0,0,0,0,Mild,No,0
+Turkey,24,Female,101,1,1,0,1,1,Moderate,Yes,1
+China,16,Male,98,0,0,0,0,0,Mild,No,0
+Turkey,18,Female,101,1,1,1,1,0,Severe,Not known,1
+France,24,Female,104,1,1,1,0,1,Severe,Yes,1
+Bulgaria,45,Female,101,1,0,0,1,0,Moderate,Not known,1
+Vietnam,55,Male,102,0,0,0,1,1,Mild,No,0
+Germany,73,Male,98,0,1,0,0,0,Mild,No,0
+Armenia,55,Female,101,1,0,0,1,0,Mild,Yes,1
+Kazakhstan,70,Male,103,1,0,0,1,1,Mild,No,0
+Iran,24,Male,98,0,0,0,0,0,Mild,No,0
+Bulgaria,35,Female,99,0,1,0,0,1,Mild,No,0
+Bulgaria,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Iraq,76,Male,100,1,1,1,0,1,Mild,Yes,1
+New Zealand,82,Female,99,0,0,0,1,0,Mild,No,0
+USA,40,Male,99,0,0,1,0,0,Mild,No,0
+Italy,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Iran,35,Female,101,1,0,0,1,1,Mild,Not known,1
+Republic of Korean,10,Male,102,1,0,0,0,1,Mild,No,0
+France,20,Male,103,1,1,0,0,0,Moderate,Not known,1
+Spain,55,Transgender,99,0,0,0,1,1,Severe,No,0
+Malaysia,37,Female,100,0,1,1,0,0,Mild,Yes,1
+UAE,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Russia,45,Female,99,1,0,0,0,1,Mild,No,0
+Bulgaria,24,Female,98,0,0,0,0,1,Mild,No,0
+France,37,Male,99,0,0,1,1,1,Moderate,Not known,0
+USA,40,Male,101,0,1,1,1,0,Moderate,Yes,1
+Vietnam,37,Female,100,0,1,0,0,0,Mild,No,0
+Hungary,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Cyprus,18,Female,99,1,0,0,1,1,Mild,Yes,1
+USA,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Albania,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Netherlands,55,Male,103,1,0,1,1,1,Moderate,No,1
+Bulgaria,55,Male,101,1,0,0,1,0,Severe,Not known,1
+France,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Finland,82,Female,99,0,0,0,1,0,Mild,No,0
+Morocco,40,Male,99,0,0,1,0,0,Mild,No,0
+Japan,45,Male,101,0,0,0,1,0,Mild,No,0
+China,55,Male,100,0,0,0,0,1,Mild,No,0
+Myanmar,37,Female,99,0,0,0,0,1,Mild,No,0
+Cambodia,24,Female,104,1,1,1,0,0,Moderate,No,0
+Uganda,65,Male,98,1,0,0,0,1,Mild,No,0
+Vietnam,70,Male,101,1,1,1,1,0,Severe,Not known,1
+India,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Oman,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Mexico,82,Female,99,0,0,0,1,0,Mild,No,0
+Bhutan,40,Male,99,0,0,1,0,0,Mild,No,0
+Greenland,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Hungary,35,Female,101,1,0,0,1,1,Mild,Not known,1
+Pakistan,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Mongolia,82,Female,99,0,0,0,1,0,Mild,No,0
+Vietnam,40,Male,99,0,0,1,0,0,Mild,No,0
+China,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Myanmar,35,Female,101,1,0,0,1,1,Mild,Not known,1
+Cambodia,35,Male,100,0,0,1,0,0,Mild,No,0
+Uganda,37,Male,99,0,0,0,0,0,Mild,No,0
+Bulgaria,24,Female,101,1,1,0,1,1,Moderate,Yes,1
+USA,16,Male,98,0,0,0,0,0,Mild,No,0
+Malta,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Taiwan,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Mauritius,39,Female,100,1,0,1,0,0,Mild,Not known,1
+India,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Armenia,73,Male,98,0,1,0,0,0,Mild,No,0
+Kazakhstan,55,Female,101,1,0,0,1,0,Mild,yes,1
+Iran,70,Male,103,1,0,0,1,1,Mild,No,0
+Bulgaria,24,Male,98,0,0,0,0,0,Mild,No,0
+New Zealand,35,Female,99,0,1,0,0,1,Mild,No,0
+Canada,18,Male,102,0,1,0,1,0,Moderate,Yes,1
+Bulgaria,37,Male,98,0,0,0,0,1,Mild,No,0
+Japan,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Indonesia,18,Female,99,1,0,0,0,1,Mild,No,0
+China,39,Female,100,0,0,1,0,0,Mild,Not known,0
+Peru,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Ireland,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Singapore,45,Female,99,1,0,0,0,1,Mild,Not known,1
+Turkey,37,Female,99,0,0,0,0,1,Mild,No,0
+New Zealand,24,Female,104,1,1,1,0,0,Moderate,Yes,1
+Canada,65,Male,98,1,0,0,0,1,Mild,No,0
+USA,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Peru,18,Male,100,1,0,0,0,1,Mild,No,0
+Ireland,37,Female,99,0,0,0,1,1,Mild,No,0
+Singapore,39,Male,100,1,0,0,1,1,Mild,No,0
+Turkey,24,Female,104,1,1,1,0,0,Moderate,No,0
+China,65,Male,98,1,0,0,0,1,Mild,No,0
+Albania,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Peru,18,Male,100,1,0,0,0,1,Mild,No,0
+Ireland,37,Female,99,0,0,0,1,1,Mild,No,0
+Singapore,39,Male,100,1,0,0,1,1,Mild,No,0
+Turkey,35,Female,103,1,0,1,0,0,Mild,Not known,1
+Germany,18,Female,99,1,0,0,0,1,Mild,No,0
+USA,18,Female,99,1,0,0,0,1,Mild,No,0
+Germany,18,Female,99,1,0,0,0,1,Mild,No,0
+France,39,Female,100,0,0,1,0,0,Mild,Not known,0
+Cyprus,55,Female,102,1,1,1,1,0,Severe,Yes,1
+Kenya,73,Male,103,1,1,0,0,1,Mild,No,0
+Georgia,50,Male,101,0,0,0,1,0,Mild,No,0
+Jordan,65,Male,100,0,0,0,0,1,Mild,No,0
+SanMario,37,Female,99,0,0,0,0,1,Mild,No,0
+Malta,24,Female,104,1,1,1,0,0,Moderate,No,0
+Taiwan,65,Male,98,1,0,0,0,1,Mild,No,0
+Mauritius,65,Male,100,0,0,0,0,1,Mild,No,0
+Argentina,37,Female,99,0,0,0,0,1,Mild,No,0
+Singapore,24,Female,104,1,1,1,0,0,Moderate,No,0
+France,65,Male,98,1,0,0,0,1,Mild,No,0
+Bermuda,39,Male,101,1,1,1,1,0,Severe,Not known,1
+Vietnam,18,Male,100,1,0,0,0,1,Mild,No,0
+Cyprus,37,Female,99,0,0,0,1,1,Mild,No,0
+Kenya,39,Male,100,1,0,0,1,1,Mild,No,0
+Georgia,10,Male,102,1,0,0,0,1,Mild,No,0
+Jordan,35,Female,104,1,0,1,0,0,Mild,Not known,1
+SanMario,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Malta,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Taiwan,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Mauritius,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Bahrain,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Nigeria,37,Female,99,0,0,0,0,1,Mild,No,0
+China,24,Female,104,1,1,1,0,0,Moderate,No,0
+Kazakhstan,65,Male,98,1,0,0,0,1,Mild,No,0
+Togo,37,Female,99,0,0,0,1,1,Mild,No,0
+Bulgaria,39,Male,100,1,0,0,1,1,Mild,No,0
+Russia,10,Male,102,1,0,0,0,1,Mild,No,0
+Norway,20,Male,103,1,1,0,0,0,Moderate,Not known,1
+France,45,Transgender,99,0,0,0,1,1,Mild,No,0
+Congo,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Peru,45,Male,98,0,1,1,1,0,Moderate,Yes,1
+Ireland,45,Female,99,1,0,0,0,1,Mild,No,0
+Singapore,24,Female,98,0,0,0,0,1,Mild,No,0
+Turkey,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Netherlands,18,Female,99,1,0,0,1,1,Mild,Yes,1
+USA,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Republic of Korean,55,Female,102,1,0,1,1,0,Severe,Yes,1
+South Korea,70,Female,103,1,1,1,1,1,Severe,Yes,1
+Armenia,30,Female,98,0,0,0,0,0,Mild,No,0
+Kazakhstan,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Iran,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Bulgaria,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Cuba,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Ghana,82,Female,99,0,0,0,1,0,Mild,No,0
+Peru,40,Male,99,0,0,1,0,0,Mild,No,0
+Ireland,55,Male,103,1,0,1,1,1,Moderate,Yes,1
+Singapore,35,Female,101,1,0,0,1,1,Mild,Not known,1
+Turkey,35,Male,100,0,0,1,0,0,Mild,No,0
+Jordan,24,Female,104,1,1,1,0,0,Moderate,Yes,1
+China,65,Male,98,1,0,0,0,1,Mild,No,0
+Kenya,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Maldives,18,Male,100,1,0,0,0,1,Mild,No,0
+New Zealand,37,Female,99,0,0,0,1,1,Mild,No,0
+Armenia,39,Male,100,1,0,0,1,1,Mild,No,0
+Kazakhstan,35,Female,103,1,0,1,0,0,Mild,Not known,1
+Iran,18,Female,99,1,0,0,0,1,Mild,No,0
+Bulgaria,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Peru,24,Female,104,1,1,1,0,0,Moderate,No,0
+Ireland,65,Male,98,1,0,0,0,1,Mild,No,0
+Singapore,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Turkey,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Georgia,18,Female,99,1,0,0,1,1,Mild,Yes,1
+USA,39,Female,100,1,0,1,0,0,Mild,Not known,1
+SanMario,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Cyprus,18,Female,99,1,0,0,0,1,Mild,No,0
+Kenya,18,Female,99,1,0,0,0,1,Mild,No,0
+Georgia,55,Male,103,1,0,1,1,1,Moderate,No,1
+Jordan,55,Male,101,1,0,0,1,0,Severe,Not known,1
+SanMario,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Malta,50,Male,101,0,0,0,1,0,Mild,No,0
+Taiwan,65,Male,100,0,0,0,0,1,Mild,No,0
+Mauritius,37,Female,99,0,0,0,0,1,Mild,No,0
+Bahrain,24,Female,104,1,1,1,0,0,Moderate,Yes,1
+Bulgaria,65,Male,98,1,0,0,0,1,Mild,No,0
+Yemen,39,Male,100,1,0,0,1,1,Mild,No,0
+Nepal,35,Female,103,1,0,1,0,0,Mild,Not known,1
+China,18,Female,99,1,0,0,0,1,Mild,No,0
+Armenia,65,Male,98,1,0,0,0,1,Mild,No,0
+Kazakhstan,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Iran,18,Male,100,1,0,0,0,1,Mild,No,0
+Bulgaria,37,Female,99,0,0,0,1,1,Mild,No,0
+Haiti,39,Male,100,1,0,0,1,1,Mild,No,0
+Bulgaria,24,Female,104,1,1,1,0,0,Moderate,No,0
+Kenya,65,Male,98,1,0,0,0,1,Mild,No,0
+Georgia,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Jordan,18,Male,100,1,0,0,0,1,Mild,No,0
+SanMario,37,Female,99,0,0,0,1,1,Mild,No,0
+Malta,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Taiwan,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Mauritius,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Georgia,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Albania,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Uganda,45,Female,99,1,0,0,0,1,Mild,No,0
+Zimbabwe,24,Female,98,0,0,0,0,1,Mild,No,0
+Bulgaria,37,Male,99,0,0,1,1,1,Moderate,Not known,0
+Taiwan,40,Male,101,0,1,1,1,0,Moderate,Yes,1
+Cyprus,37,Female,100,0,1,0,0,0,Mild,No,0
+Armenia,35,Male,101,1,0,1,1,1,Severe,No,0
+Kazakhstan,70,Female,103,1,1,1,1,1,Severe,Yes,1
+Iran,30,Female,98,0,0,0,0,0,Mild,No,0
+Bulgaria,35,Male,102,0,0,1,0,1,Moderate,Not known,0
+Bangladesh,55,Male,103,1,0,1,1,1,Moderate,No,0
+Netherlands,55,Male,101,1,0,0,1,0,Severe,Not known,1
+France,24,Female,104,1,1,1,0,0,Moderate,No,0
+Malta,65,Male,98,1,0,0,0,1,Mild,No,0
+South Africa,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Bulgaria,18,Male,100,1,0,0,0,1,Mild,No,0
+Thailand,37,Female,99,0,0,0,1,1,Mild,No,0
+Mongolia,39,Male,100,1,0,0,1,1,Mild,No,0
+Zimbabwe,35,Female,103,1,0,1,0,0,Mild,Not known,1
+Sweden,18,Female,99,1,0,0,0,1,Mild,No,0
+Fiji,37,Female,99,0,0,0,0,1,Mild,No,0
+Bhutan,24,Female,104,1,1,1,0,0,Moderate,No,0
+Greenland,65,Male,98,1,0,0,0,1,Mild,No,0
+Hungary,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Pakistan,18,Male,100,1,0,0,0,1,Mild,No,0
+Mongolia,37,Female,99,0,0,0,1,1,Mild,No,0
+Vietnam,55,Male,101,1,0,0,1,0,Severe,Not known,1
+China,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Vietnam,82,Female,99,0,0,0,1,0,Mild,No,0
+Kenya,40,Male,99,0,0,1,0,0,Mild,No,0
+Georgia,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Jordan,35,Female,101,1,0,0,1,1,Mild,Not known,1
+SanMario,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Malta,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Taiwan,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Mauritius,55,Female,102,1,0,1,1,0,Severe,Yes,1
+China,24,Female,104,1,1,1,0,0,Moderate,No,0
+New Zealand,65,Male,98,1,0,0,0,1,Mild,No,0
+Cyprus,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Kenya,18,Male,100,1,0,0,0,1,Mild,No,0
+Georgia,18,Female,99,1,0,0,0,1,Mild,No,0
+Jordan,39,Female,100,0,0,1,0,0,Mild,Not known,0
+SanMario,55,Female,102,1,1,1,1,0,Severe,Yes,1
+Malta,73,Male,103,1,1,0,0,1,Mild,No,0
+Taiwan,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Mauritius,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Mexico,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Mongolia,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Zimbabwe,65,Male,98,1,0,0,0,1,Mild,No,0
+Sweden,65,Male,98,1,0,0,0,1,Mild,No,0
+Fiji,55,Male,103,1,0,1,1,1,Moderate,No,1
+Bhutan,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Greenland,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Hungary,39,Male,100,1,0,0,1,1,Mild,No,0
+Pakistan,35,Female,103,1,0,1,0,0,Mild,Not known,1
+Mongolia,18,Female,99,1,0,0,0,1,Mild,No,0
+Vietnam,70,Female,103,1,1,1,1,1,Severe,Yes,1
+China,30,Female,98,0,0,0,0,0,Mild,No,0
+Serbia,35,Male,102,0,0,1,0,1,Moderate,Not known,0
+Barbados,55,Male,103,1,0,1,1,1,Moderate,Not known,1
+Bulgaria,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Vietnam,76,Male,100,1,1,1,0,1,Mild,Yes,1
+France,82,Female,99,0,0,0,1,0,Mild,No,0
+Malta,40,Male,99,0,0,1,0,0,Mild,No,0
+Taiwan,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Mauritius,35,Female,101,1,0,0,1,1,Mild,Not known,1
+Congo,35,Male,100,0,0,1,0,0,Mild,No,0
+Vietnam,37,Male,99,0,0,0,0,0,Mild,No,0
+Zambia,24,Female,101,1,1,0,1,1,Moderate,Yes,1
+Hungary,16,Male,98,0,0,0,0,0,Mild,No,0
+Haiti,18,Female,101,1,1,1,1,0,Severe,Not known,1
+Liberia,24,Female,104,1,1,1,0,1,Severe,No,0
+Nepal,45,Female,101,1,0,0,1,0,Moderate,Not known,1
+Togo,55,Male,102,0,0,0,1,1,Mild,No,0
+Myanmar,73,Male,98,0,1,0,0,0,Mild,No,0
+Cambodia,55,Female,101,1,0,0,1,0,Mild,yes,1
+Finland,70,Male,103,1,0,0,1,1,Mild,No,0
+Morocco,24,Male,98,0,0,0,0,0,Mild,No,0
+Japan,35,Female,99,0,1,0,0,1,Mild,No,0
+France,18,Male,102,0,1,0,1,0,Moderate,Yes,0
+Peru,45,Male,101,0,0,0,1,0,Mild,No,0
+Ireland,55,Male,100,0,0,0,0,1,Mild,No,1
+Singapore,37,Female,99,0,0,0,0,1,Mild,No,0
+Turkey,24,Female,104,1,1,1,0,0,Moderate,No,0
+Turkey,65,Male,98,1,0,0,0,1,Mild,No,0
+Argentina,70,Male,101,1,1,1,1,0,Severe,Not known,1
+France,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Mongolia,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Zimbabwe,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Sweden,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Fiji,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Bhutan,82,Female,99,0,0,0,1,0,Mild,No,0
+Greenland,40,Male,99,0,0,1,0,0,Mild,No,0
+Hungary,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Pakistan,35,Female,101,1,0,0,1,1,Mild,Not known,1
+Mongolia,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Vietnam,18,Female,99,1,0,0,1,1,Mild,Yes,1
+China,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Myanmar,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Cambodia,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Uganda,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Bulgaria,45,Male,98,0,1,1,1,0,Moderate,Yes,1
+Thailand,37,Female,99,0,0,0,1,1,Mild,No,0
+Iraq,39,Male,100,1,0,0,1,1,Mild,No,0
+New Zealand,35,Female,103,1,0,1,0,0,Mild,Not known,1
+Canada,18,Female,99,1,0,0,0,1,Mild,No,0
+France,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Cyprus,82,Female,99,0,0,0,1,0,Mild,No,0
+Mexico,40,Male,99,0,0,1,0,0,Mild,No,0
+Turkey,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Ireland,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Fiji,39,Female,100,1,0,1,0,0,Mild,Not known,1
+France,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Barbados,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Denmark,18,Male,100,1,0,0,0,1,Mild,No,0
+Afghanistan,37,Female,99,0,0,0,1,1,Mild,No,0
+Finland,39,Male,100,1,0,0,1,1,Mild,No,0
+Uganda,35,Female,103,1,0,1,0,0,Mild,Not known,1
+Ukraine,18,Female,99,1,0,0,0,1,Mild,No,0
+Zimbabwe,18,Male,100,1,0,0,0,1,Mild,No,0
+Pakistan,37,Female,99,0,0,0,1,1,Mild,No,0
+China,39,Male,100,1,0,0,1,1,Mild,No,0
+South Africa,18,Female,99,1,0,0,0,1,Mild,No,0
+Mexico,39,Female,100,0,0,1,0,0,Mild,Not known,0
+USA,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Armenia,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Germany,39,Female,100,1,0,1,0,0,Mild,Not known,1
+India,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Australia,37,Female,99,0,0,0,0,1,Mild,No,0
+Zimbabwe,24,Female,104,1,1,1,0,0,Moderate,No,0
+Singapore,65,Male,98,1,0,0,0,1,Mild,No,0
+Bulgaria,37,Male,99,0,0,1,1,1,Moderate,Not known,0
+France,40,Male,101,0,1,1,1,0,Moderate,Yes,1
+Japan,37,Female,100,0,1,0,0,0,Mild,No,0
+Kazakhstan,55,Male,103,1,0,1,1,1,Moderate,No,1
+Panama,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Zimbabwe,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Mexico,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Myanmar,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Togo,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Mongolia,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Zimbabwe,82,Female,99,0,0,0,1,0,Mild,No,0
+Sweden,40,Male,99,0,0,1,0,0,Mild,No,0
+Fiji,55,Transgender,99,0,0,0,1,1,Severe,No,0
+Bhutan,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Greenland,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Russia,55,Male,103,1,0,1,1,1,Moderate,No,1
+Pakistan,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Mongolia,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Vietnam,40,Male,101,0,1,1,1,0,Moderate,Yes,1
+China,37,Female,100,0,1,0,0,0,Mild,No,0
+SanMario,35,Male,101,1,0,1,1,1,Severe,No,0
+Finland,70,Female,103,1,1,1,1,1,Severe,Yes,1
+Fiji,30,Female,98,0,0,0,0,0,Mild,No,0
+Hungary,35,Male,102,0,0,1,0,1,Moderate,Not known,0
+Kenya,55,Male,103,1,0,1,1,1,Moderate,No,0
+Yemen,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Mexico,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Iraq,82,Female,99,0,0,0,1,0,Mild,No,0
+New Zealand,40,Male,99,0,0,1,0,0,Mild,No,0
+USA,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Italy,35,Female,101,1,0,0,1,1,Mild,Not known,1
+Iran,35,Male,100,0,0,1,0,0,Mild,No,0
+Republic of Korean,37,Female,100,0,1,1,0,0,Mild,Yes,1
+France,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Spain,45,Female,99,1,0,0,0,1,Mild,Not known,1
+Malaysia,82,Female,99,0,0,0,1,0,Mild,No,0
+UAE,40,Male,99,0,0,1,0,0,Mild,No,0
+Russia,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Thailand,24,Female,104,1,1,1,0,0,Moderate,No,0
+UAE,65,Male,98,1,0,0,0,1,Mild,No,0
+Pakistan,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Zimbabwe,18,Male,100,1,0,0,0,1,Mild,No,0
+France,37,Female,99,0,0,0,1,1,Mild,No,0
+Nepal,39,Male,100,1,0,0,1,1,Mild,No,0
+Mexico,35,Female,104,1,0,1,0,0,Mild,Not known,1
+India,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Republic of Korean,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Gabon,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Jordan,55,Male,103,1,0,1,1,1,Moderate,No,1
+Liberia,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Iran,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Malta,39,Male,100,1,0,0,1,1,Mild,Yes,1
+Taiwan,35,Female,103,1,0,1,0,0,Mild,Not known,1
+Mauritius,18,Female,99,1,0,0,0,1,Mild,Not known,1
+Congo,24,Female,104,1,1,1,0,0,Moderate,No,0
+Vietnam,65,Male,98,1,0,0,0,1,Mild,No,0
+Zambia,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Hungary,18,Male,100,1,0,0,0,1,Mild,No,0
+Haiti,37,Female,99,0,0,0,1,1,Mild,No,0
+Liberia,39,Male,100,1,0,0,1,1,Mild,No,0
+Nepal,35,Female,103,1,0,1,0,0,Mild,Not known,1
+Togo,18,Female,99,1,0,0,0,1,Mild,No,0
+Myanmar,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Cambodia,45,Female,99,1,0,0,0,1,Mild,No,0
+Thailand,24,Female,98,0,0,0,0,1,Mild,No,0
+Iraq,37,Male,99,0,0,1,1,1,Moderate,Not known,1
+New Zealand,40,Male,101,0,1,1,1,0,Moderate,Yes,1
+Canada,37,Female,100,0,1,0,0,0,Mild,No,0
+France,35,Male,101,1,0,1,1,1,Severe,No,0
+Sudan,70,Female,103,1,1,1,1,1,Severe,Yes,1
+Malta,30,Female,98,0,0,0,0,0,Mild,No,0
+Haiti,35,Male,102,0,0,1,0,1,Moderate,Not known,0
+Afghanistan,55,Male,103,1,0,1,1,1,Moderate,No,1
+Bangladesh,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Georgia,75,Male,100,1,1,1,0,1,Mild,Yes,1
+Estoria,82,Female,99,0,0,0,1,0,Mild,No,0
+Taiwan,40,Male,99,0,0,1,0,0,Mild,No,0
+China,10,Male,102,1,0,0,0,1,Mild,No,0
+Italy,20,Male,103,1,1,0,0,0,Moderate,Not known,1
+Iran,55,Transgender,99,0,0,0,1,1,Severe,No,0
+Republic of Korean,37,Female,100,0,1,1,0,0,Mild,Yes,1
+France,55,Male,103,1,0,1,1,1,Moderate,No,1
+Spain,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Germany,75,Male,100,1,1,1,0,1,Mild,Yes,1
+UAE,37,Male,99,0,0,1,1,1,Moderate,Not known,0
+Russia,40,Male,101,0,1,1,1,0,Moderate,Yes,1
+Canada,37,Female,100,0,1,0,0,0,Mild,No,0
+China,35,Male,101,1,0,1,1,1,Severe,No,0
+Netherlands,70,Female,103,1,1,1,1,1,Severe,Yes,1
+Mexico,30,Female,98,0,0,0,0,0,Mild,No,0
+Pakistan,35,Male,102,0,0,1,0,1,Moderate,Not known,0
+Chile,55,Male,103,1,0,1,1,1,Moderate,No,0
+Sweden,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Peru,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Ireland,82,Female,99,0,0,0,1,0,Mild,No,0
+Singapore,40,Male,99,0,0,1,0,0,Mild,No,0
+Turkey,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Russia,35,Female,101,1,0,0,1,1,Mild,Not known,1
+France,35,Male,100,0,0,1,0,0,Mild,No,0
+Iran,37,Male,99,0,0,0,0,0,Mild,No,0
+Pakistan,24,Female,101,1,1,0,1,1,Moderate,Yes,1
+India,16,Male,98,0,0,0,0,0,Mild,No,0
+Sweden,18,Female,101,1,1,1,1,0,Severe,Not known,1
+Australia,24,Female,104,1,1,1,0,1,Severe,No,0
+Malaysia,45,Female,101,1,0,0,1,0,Moderate,Not known,1
+Argentina,55,Male,102,0,0,0,1,1,Mild,No,0
+Kuwait,73,Male,98,0,1,0,0,0,Mild,No,0
+Morocco,55,Female,101,1,0,0,1,0,Mild,yes,1
+Afghanistan,70,Male,103,1,0,0,1,1,Mild,Yes,1
+Finland,24,Male,98,0,0,0,0,0,Mild,No,0
+Norway,35,Female,99,0,1,0,0,1,Mild,No,0
+Singapore,18,Male,102,0,1,0,1,0,Moderate,Yes,1
+Ireland,37,Male,98,0,0,0,0,1,Mild,No,0
+Canada,35,Female,104,1,0,1,0,0,Mild,Not known,1
+France,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Bangladesh,39,Female,100,1,0,1,0,0,Mild,Not known,1
+South Korea,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Indonesia,73,Male,103,1,1,0,0,1,Mild,Not known,1
+Denmark,45,Male,101,0,0,0,1,0,Mild,No,0
+Romania,55,Male,100,0,0,0,0,1,Mild,No,1
+Ukraine,37,Female,99,0,0,0,0,1,Mild,No,0
+Serbia,24,Female,104,1,1,1,0,0,Moderate,Yes,1
+USA,65,Male,98,1,0,0,0,1,Mild,No,0
+Egypt,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Thailand,18,Male,100,1,0,0,0,1,Mild,No,0
+Iraq,37,Female,99,0,0,0,1,1,Mild,No,0
+New Zealand,39,Male,100,1,0,0,1,1,Mild,No,0
+Canada,35,Female,103,1,0,1,0,0,Mild,Not known,1
+France,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Bangladesh,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+South Korea,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Indonesia,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Denmark,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Romania,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Ukraine,37,Female,99,0,0,0,0,1,Mild,No,0
+Japan,24,Female,104,1,1,1,0,0,Moderate,No,0
+South Africa,65,Male,98,1,0,0,0,1,Mild,No,0
+Egypt,39,Male,101,1,1,1,1,0,Severe,Not known,1
+USA,18,Male,100,1,0,0,0,1,Mild,No,0
+Iraq,37,Female,99,0,0,0,1,1,Mild,No,0
+New Zealand,39,Male,100,1,0,0,1,1,Mild,No,0
+USA,10,Male,102,1,0,0,0,1,Mild,No,0
+Italy,20,Male,103,1,1,0,0,0,Moderate,Not known,0
+Iran,45,Transgender,99,0,0,0,1,1,Mild,No,0
+Republic of Korean,37,Female,100,0,1,1,0,0,Mild,Yes,1
+France,45,Male,98,0,1,1,1,0,Moderate,Yes,0
+Spain,45,Female,99,1,0,0,0,1,Mild,No,0
+Malaysia,24,Female,98,0,0,0,0,1,Mild,No,0
+UAE,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Russia,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Canada,39,Female,100,1,0,1,0,0,Mild,Not known,1
+China,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Netherlands,70,Female,103,1,1,1,1,1,Severe,Yes,1
+Mexico,30,Female,98,0,0,0,0,0,Mild,No,0
+Pakistan,35,Male,102,0,0,1,0,1,Moderate,Not known,0
+Chile,73,Male,103,1,0,1,1,1,Moderate,No,0
+Sweden,50,Male,101,1,0,0,1,0,Severe,Not known,1
+Peru,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Ireland,82,Female,99,0,0,0,1,0,Mild,No,0
+Singapore,40,Male,99,0,0,1,0,0,Mild,No,0
+Turkey,55,Male,103,1,0,1,1,1,Moderate,Yes,1
+Russia,35,Female,101,1,0,0,1,1,Mild,Not known,1
+France,35,Male,100,0,0,1,0,0,Mild,No,0
+Iran,37,Male,99,0,0,0,0,0,Mild,No,0
+Slovakia,24,Female,101,1,1,0,1,1,Moderate,Yes,1
+Somalia,35,Male,102,0,0,1,0,1,Moderate,Not known,1
+Chile,50,Male,103,1,0,1,1,1,Moderate,No,0
+Sweden,35,Male,101,1,0,0,1,0,Severe,Not known,1
+Peru,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Sri Lanka,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Singapore,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Turkey,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Russia,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Oman,35,Male,100,0,0,1,0,0,Mild,No,0
+Iran,37,Male,99,0,0,0,0,0,Mild,No,0
+Slovakia,24,Female,101,1,1,0,1,1,Moderate,Yes,1
+China,10,Male,102,1,0,0,0,1,Mild,No,0
+Italy,20,Male,103,1,1,0,0,0,Moderate,Not known,1
+Iran,40,Transgender,99,0,0,0,1,1,Mild,No,0
+Republic of Korean,37,Female,100,0,1,1,0,0,Mild,Yes,1
+France,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Spain,45,Female,99,1,0,0,0,1,Mild,No,0
+Germany,24,Female,98,0,0,0,0,1,Mild,No,0
+UAE,37,Male,99,0,0,1,1,1,Moderate,Not known,0
+Russia,45,Male,101,0,1,1,1,0,Moderate,Yes,1
+Canada,37,Female,100,0,1,0,0,0,Mild,No,0
+China,35,Male,101,1,0,1,1,1,Severe,No,0
+Netherlands,70,Female,103,1,1,1,1,1,Severe,Yes,1
+Mexico,30,Female,98,0,0,0,0,0,Mild,No,0
+Pakistan,35,Male,102,0,0,1,0,1,Moderate,Not known,0
+Chile,35,Male,103,1,0,1,1,1,Moderate,No,0
+Sweden,20,Male,101,1,0,0,1,0,Severe,Not known,1
+Peru,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Ireland,82,Female,99,0,0,0,1,0,Mild,No,0
+Singapore,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Turkey,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Russia,45,Female,99,1,0,0,0,1,Mild,Not known,1
+France,35,Male,100,0,0,1,0,0,Mild,No,0
+Iran,37,Male,99,0,0,0,0,0,Mild,No,0
+Pakistan,24,Female,101,1,1,0,1,1,Moderate,Yes,1
+India,16,Male,98,0,0,0,0,0,Mild,No,0
+Sweden,18,Female,101,1,1,1,1,0,Severe,Not known,1
+Australia,24,Female,104,1,1,1,0,1,Severe,No,0
+Malaysia,45,Female,101,1,0,0,1,0,Moderate,Not known,1
+Argentina,55,Male,102,0,0,0,1,1,Mild,No,0
+Kuwait,73,Male,98,0,1,0,0,0,Mild,No,0
+Morocco,55,Female,101,1,0,0,1,0,Mild,Yes,1
+Afghanistan,70,Male,103,1,0,0,1,1,Mild,No,0
+Finland,24,Male,98,0,0,0,0,0,Mild,No,0
+Norway,35,Female,99,0,1,0,0,1,Mild,No,0
+Belgium,18,Male,102,0,1,0,1,0,Moderate,Yes,1
+Ireland,37,Male,98,0,0,0,0,1,Mild,No,0
+Canada,35,Female,104,1,0,1,0,0,Mild,Not known,1
+France,18,Female,99,1,0,0,0,1,Mild,No,0
+Bangladesh,39,Female,100,0,0,1,0,0,Mild,Not known,0
+South Korea,55,Female,102,1,1,1,1,0,Severe,Yes,1
+Indonesia,73,Male,103,1,1,0,0,1,Mild,No,0
+Denmark,45,Male,101,0,0,0,1,0,Mild,No,0
+Japan,55,Male,100,0,0,0,0,1,Mild,No,0
+Ukraine,37,Female,99,0,0,0,0,1,Mild,No,0
+Serbia,24,Female,104,1,1,1,0,0,Moderate,Yes,1
+USA,65,Male,98,1,0,0,0,1,Mild,No,0
+Egypt,18,Male,101,1,1,1,1,0,Severe,Not known,1
+Thailand,18,Male,100,1,0,0,0,1,Mild,No,0
+Iraq,37,Female,99,0,0,0,1,1,Mild,No,0
+New Zealand,39,Male,100,1,0,0,1,1,Mild,No,0
+Canada,35,Female,104,1,0,1,0,0,Mild,Not known,1
+France,18,Female,99,1,0,0,0,1,Mild,No,0
+Bangladesh,39,Female,100,0,0,1,0,0,Mild,Not known,1
+South Korea,55,Female,102,1,1,1,1,0,Severe,Yes,1
+Indonesia,73,Male,103,1,1,0,0,1,Mild,No,0
+Denmark,50,Male,101,0,0,0,1,0,Mild,No,0
+Romania,65,Male,100,0,0,0,0,1,Mild,No,0
+Ukraine,37,Female,99,0,0,0,0,1,Mild,No,0
+Japan,24,Female,104,1,1,1,0,0,Moderate,Not known,1
+South Africa,65,Male,98,1,0,0,0,1,Mild,No,0
+Egypt,73,Male,101,1,1,1,1,0,Severe,Not known,1
+USA,18,Male,100,1,0,0,0,1,Mild,No,0
+Iraq,37,Female,99,0,0,0,1,1,Mild,No,0
+New Zealand,39,Male,100,1,0,0,1,1,Mild,Yes,1
+Singapore,39,Male,100,1,0,0,1,1,Mild,No,0
+Turkey,35,Female,103,1,0,1,0,0,Mild,Not known,1
+Germany,18,Female,99,1,0,0,0,1,Mild,No,0
+USA,18,Female,99,1,0,0,0,1,Mild,No,0
+Germany,18,Female,99,1,0,0,0,1,Mild,No,0
+France,39,Female,100,0,0,1,0,0,Mild,Not known,0
+Cyprus,55,Female,102,1,1,1,1,0,Severe,Yes,1
+Kenya,73,Male,103,1,1,0,0,1,Mild,No,0
+Georgia,50,Male,101,0,0,0,1,0,Mild,No,0
+Jordan,65,Male,100,0,0,0,0,1,Mild,No,0
+SanMario,37,Female,99,0,0,0,0,1,Mild,No,0
+Malta,24,Female,104,1,1,1,0,0,Moderate,Yes,1
+Taiwan,65,Male,98,1,0,0,0,1,Mild,No,0
+Mauritius,65,Male,100,0,0,0,0,1,Mild,No,0
+Argentina,37,Female,99,0,0,0,0,1,Mild,No,0
+Singapore,24,Female,104,1,1,1,0,0,Moderate,Yes,1
+France,65,Male,98,1,0,0,0,1,Mild,No,0
+Bermuda,39,Male,101,1,1,1,1,0,Severe,Not known,1
+Vietnam,18,Male,100,1,0,0,0,1,Mild,No,0
+Cyprus,37,Female,99,0,0,0,1,1,Mild,No,0
+Kenya,39,Male,100,1,0,0,1,1,Mild,No,0
+Georgia,10,Male,102,1,0,0,0,1,Mild,No,0
+Jordan,20,Male,103,1,1,0,0,0,Moderate,Not known,1
+SanMario,45,Transgender,99,0,0,0,1,1,Mild,No,0
+Malta,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Taiwan,45,Male,99,0,1,1,1,0,Moderate,Yes,1
+Mauritius,45,Female,99,1,0,0,0,1,Mild,No,0
+Bahrain,65,Male,100,0,0,0,0,1,Mild,No,0
+Nigeria,37,Female,99,0,0,0,0,1,Mild,No,0
+China,24,Female,104,1,1,1,0,0,Moderate,Yes,1
+Kazakhstan,65,Male,98,1,0,0,0,1,Mild,No,0
+Togo,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Bulgaria,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Russia,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Norway,55,Female,102,1,0,1,1,0,Severe,Yes,1
+France,45,Transgender,99,0,0,0,1,1,Mild,No,0
+Congo,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Peru,45,Male,98,0,1,1,1,0,Moderate,Yes,1
+Ireland,45,Female,99,1,0,0,0,1,Mild,No,0
+Singapore,24,Female,98,0,0,0,0,1,Mild,No,0
+Turkey,37,Male,99,0,0,1,1,1,Moderate,Not known,0
+Netherlands,65,Male,101,0,1,1,1,0,Moderate,Yes,1
+USA,37,Female,100,0,1,0,0,0,Mild,No,0
+Republic of Korean,35,Male,101,1,0,1,1,1,Severe,No,1
+South Korea,70,Female,103,1,1,1,1,1,Severe,Yes,1
+Armenia,30,Female,98,0,0,0,0,0,Mild,No,0
+Kazakhstan,35,Male,102,0,0,1,0,1,Moderate,Not known,0
+Iran,73,Male,103,1,0,1,1,1,Moderate,No,0
+Bulgaria,50,Male,101,1,0,0,1,0,Severe,Not known,1
+Cuba,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Ghana,82,Female,99,0,0,0,1,0,Mild,No,0
+Peru,40,Male,99,0,0,1,0,0,Mild,No,0
+Ireland,55,Male,103,1,0,1,1,1,Moderate,Yes,1
+Singapore,35,Female,101,1,0,0,1,1,Mild,Not known,0
+Turkey,35,Male,100,0,0,1,0,0,Mild,No,0
+Jordan,24,Female,104,1,1,1,0,0,Moderate,No,0
+China,65,Male,98,1,0,0,0,1,Mild,No,0
+Kenya,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Maldives,18,Male,100,1,0,0,0,1,Mild,No,0
+New Zealand,37,Female,99,0,0,0,1,1,Mild,No,0
+Armenia,39,Male,100,1,0,0,1,1,Mild,No,0
+Kazakhstan,35,Female,103,1,0,1,0,0,Mild,Not known,0
+Iran,18,Female,99,1,0,0,0,1,Mild,No,0
+Bulgaria,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Peru,24,Female,104,1,1,1,0,0,Moderate,No,0
+Ireland,65,Male,98,1,0,0,0,1,Mild,No,0
+Singapore,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Turkey,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Georgia,18,Female,99,1,0,0,1,1,Mild,Yes,1
+USA,39,Female,100,1,0,1,0,0,Mild,Not known,1
+SanMario,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Cyprus,18,Female,99,1,0,0,0,1,Mild,No,0
+Kenya,18,Female,99,1,0,0,0,1,Mild,No,0
+Georgia,39,Female,100,0,0,1,0,0,Mild,Not known,0
+Jordan,55,Female,102,1,1,1,1,0,Severe,Yes,1
+SanMario,73,Male,103,1,1,0,0,1,Mild,No,0
+Malta,50,Male,101,0,0,0,1,0,Mild,No,0
+Taiwan,65,Male,100,0,0,0,0,1,Mild,No,0
+Mauritius,37,Female,99,0,0,0,0,1,Mild,No,0
+Bahrain,24,Female,104,1,1,1,0,0,Moderate,Yes,1
+Bulgaria,65,Male,98,1,0,0,0,1,Mild,No,0
+Yemen,39,Male,100,1,0,0,1,1,Mild,No,0
+Nepal,35,Female,103,1,0,1,0,0,Mild,Not known,1
+China,18,Female,99,1,0,0,0,1,Mild,No,0
+Armenia,65,Male,98,1,0,0,0,1,Mild,No,0
+Kazakhstan,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Iran,18,Male,100,1,0,0,0,1,Mild,No,0
+Bulgaria,37,Female,99,0,0,0,1,1,Mild,No,0
+Haiti,39,Male,100,1,0,0,1,1,Mild,Yes,1
+Bulgaria,24,Female,104,1,1,1,0,0,Moderate,No,0
+Kenya,65,Male,98,1,0,0,0,1,Mild,No,0
+Georgia,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Jordan,18,Male,100,1,0,0,0,1,Mild,No,0
+SanMario,37,Female,99,0,0,0,1,1,Mild,No,0
+Malta,39,Male,100,1,0,0,1,1,Mild,No,0
+Taiwan,35,Female,103,1,0,1,0,0,Mild,Not known,1
+Mauritius,18,Female,99,1,0,0,0,1,Mild,No,0
+Georgia,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Albania,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Uganda,45,Female,99,1,0,0,0,1,Mild,No,0
+Zimbabwe,24,Female,98,0,0,0,0,1,Mild,No,0
+Bulgaria,37,Male,99,0,0,1,1,1,Moderate,Not known,1
+Taiwan,40,Male,101,0,1,1,1,0,Moderate,Yes,1
+Cyprus,37,Female,100,0,1,0,0,0,Mild,No,0
+Armenia,35,Male,101,1,0,1,1,1,Severe,No,0
+Kazakhstan,70,Female,103,1,1,1,1,1,Severe,Yes,1
+Iran,30,Female,98,0,0,0,0,0,Mild,No,0
+Bulgaria,35,Male,102,0,0,1,0,1,Moderate,Not known,1
+Bangladesh,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Netherlands,18,Female,99,1,0,0,1,1,Mild,Yes,1
+France,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Malta,55,Female,102,1,0,1,1,0,Severe,Yes,1
+South Africa,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Bulgaria,18,Male,100,1,0,0,0,1,Mild,No,0
+Thailand,37,Female,99,0,0,0,1,1,Mild,No,0
+Mongolia,39,Male,100,1,0,0,1,1,Mild,No,0
+Zimbabwe,35,Female,103,1,0,1,0,0,Mild,Not known,1
+Sweden,18,Female,99,1,0,0,0,1,Mild,No,0
+Fiji,37,Female,99,0,0,0,0,1,Mild,No,0
+Bhutan,24,Female,104,1,1,1,0,0,Moderate,No,0
+Greenland,65,Male,98,1,0,0,0,1,Mild,No,0
+Hungary,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Pakistan,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Mongolia,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Vietnam,55,Female,102,1,0,1,1,0,Severe,Yes,1
+China,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Vietnam,82,Female,99,0,0,0,1,0,Mild,No,0
+Kenya,40,Male,99,0,0,1,0,0,Mild,No,0
+Georgia,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Jordan,35,Female,101,1,0,0,1,1,Mild,Not known,1
+SanMario,37,Female,99,0,0,0,1,1,Mild,No,0
+Malta,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Taiwan,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Mauritius,45,Female,99,1,0,0,0,1,Mild,Not known,1
+China,24,Female,104,1,1,1,0,0,Moderate,No,0
+New Zealand,65,Male,98,1,0,0,0,1,Mild,No,0
+Cyprus,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Kenya,18,Male,100,1,0,0,0,1,Mild,No,0
+Georgia,18,Female,99,1,0,0,0,1,Mild,No,0
+Jordan,39,Female,100,0,0,1,0,0,Mild,Not known,0
+SanMario,55,Female,102,1,1,1,1,0,Severe,Yes,1
+Malta,73,Male,103,1,1,0,0,1,Mild,Not known,1
+Taiwan,50,Male,101,0,0,0,1,0,Mild,No,0
+Mauritius,65,Male,100,0,0,0,0,1,Mild,No,0
+Mexico,37,Female,99,0,0,0,0,1,Mild,No,0
+Mongolia,24,Female,104,1,1,1,0,0,Moderate,Yes,1
+Zimbabwe,65,Male,98,1,0,0,0,1,Mild,No,0
+Sweden,65,Male,98,1,0,0,0,1,Mild,No,0
+Fiji,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Bhutan,18,Male,100,1,0,0,0,1,Mild,No,0
+Greenland,37,Female,99,0,0,0,1,1,Mild,No,0
+Hungary,39,Male,100,1,0,0,1,1,Mild,No,0
+Pakistan,35,Female,103,1,0,1,0,0,Mild,Not known,1
+Mongolia,18,Female,99,1,0,0,0,1,Mild,No,0
+Vietnam,70,Female,103,1,1,1,1,1,Severe,Yes,1
+China,30,Female,98,0,0,0,0,0,Mild,No,0
+Serbia,35,Male,102,0,0,1,0,1,Moderate,Not known,0
+Barbados,55,Male,103,1,0,1,1,1,Moderate,No,0
+Bulgaria,55,Male,101,1,0,0,1,0,Severe,Not known,0
+Vietnam,76,Male,100,1,1,1,0,1,Mild,Yes,1
+France,82,Female,99,0,0,0,1,0,Mild,No,0
+Malta,40,Male,99,0,0,1,0,0,Mild,No,0
+Taiwan,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Mauritius,35,Female,101,1,0,0,1,1,Mild,Not known,1
+Congo,35,Male,100,0,0,1,0,0,Mild,No,0
+Vietnam,37,Male,99,0,0,0,0,0,Mild,No,0
+Zambia,24,Female,101,1,1,0,1,1,Moderate,Yes,0
+Hungary,16,Male,98,0,0,0,0,0,Mild,No,0
+Haiti,18,Female,101,1,1,1,1,0,Severe,Not known,1
+Liberia,24,Female,104,1,1,1,0,1,Severe,No,0
+Nepal,45,Female,101,1,0,0,1,0,Moderate,Not known,1
+Togo,55,Male,102,0,0,0,1,1,Mild,No,0
+Myanmar,73,Male,98,0,1,0,0,0,Mild,No,0
+Cambodia,55,Female,101,1,0,0,1,0,Mild,yes,1
+Finland,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Morocco,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Japan,39,Female,100,1,0,1,0,0,Mild,Not known,1
+France,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Peru,45,Male,101,0,0,0,1,0,Mild,No,0
+Ireland,55,Male,100,0,0,0,0,1,Mild,No,1
+Singapore,37,Female,99,0,0,0,0,1,Mild,No,0
+Turkey,24,Female,104,1,1,1,0,0,Moderate,No,0
+Jordan,65,Male,98,1,0,0,0,1,Mild,No,0
+Afghanistan,70,Male,101,1,1,1,1,0,Severe,Not known,1
+France,18,Male,100,1,0,0,0,1,Mild,No,0
+Mongolia,37,Female,99,0,0,0,1,1,Mild,No,0
+Zimbabwe,39,Male,100,1,0,0,1,1,Mild,No,0
+Sweden,55,Male,101,1,0,0,1,0,Severe,Not known,0
+Fiji,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Bhutan,82,Female,99,0,0,0,1,0,Mild,No,0
+Greenland,40,Male,99,0,0,1,0,0,Mild,No,0
+Hungary,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Pakistan,35,Female,101,1,0,0,1,1,Mild,Not known,1
+Mongolia,37,Female,99,0,0,0,1,1,Mild,No,0
+Vietnam,39,Male,100,1,0,0,1,1,Mild,No,0
+China,10,Male,102,1,0,0,0,1,Mild,No,0
+Myanmar,20,Male,103,1,1,0,0,0,Moderate,Not known,1
+Cambodia,45,Transgender,99,0,0,0,1,1,Mild,No,0
+Uganda,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Bulgaria,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Peru,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Ireland,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Singapore,37,Male,99,0,0,1,1,1,Moderate,Not known,0
+Turkey,65,Male,101,0,1,1,1,0,Moderate,Yes,1
+Finland,37,Female,100,0,1,0,0,0,Mild,No,0
+Morocco,35,Male,101,1,0,1,1,1,Severe,No,0
+Japan,70,Female,103,1,1,1,1,1,Severe,Yes,1
+USA,30,Female,98,0,0,0,0,0,Mild,No,0
+Iraq,35,Male,102,0,0,1,0,1,Moderate,Not known,0
+China,73,Male,103,1,0,1,1,1,Moderate,No,0
+Somalia,50,Male,101,1,0,0,1,0,Severe,Not known,0
+Armenia,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Kazakhstan,82,Female,99,0,0,0,1,0,Mild,No,0
+Iran,40,Male,99,0,0,1,0,0,Mild,No,0
+Bulgaria,55,Male,103,1,0,1,1,1,Moderate,Yes,1
+Albania,35,Female,101,1,0,0,1,1,Mild,Not known,0
+Peru,24,Female,104,1,1,1,0,0,Moderate,No,0
+Ireland,65,Male,98,1,0,0,0,1,Mild,No,0
+Singapore,39,Male,100,1,0,0,1,1,Mild,No,0
+Turkey,35,Female,103,1,0,1,0,0,Mild,Not known,1
+Germany,18,Female,99,1,0,0,0,1,Mild,No,0
+USA,18,Female,99,1,0,0,0,1,Mild,No,0
+Germany,18,Female,99,1,0,0,0,1,Mild,No,0
+France,39,Female,100,0,0,1,0,0,Mild,Not known,0
+Cyprus,55,Female,102,1,1,1,1,0,Severe,Yes,1
+Kenya,73,Male,103,1,1,0,0,1,Mild,No,0
+Georgia,50,Male,101,0,0,0,1,0,Mild,No,0
+Jordan,37,Female,100,0,1,1,0,0,Mild,Yes,1
+SanMario,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Malta,45,Female,99,1,0,0,0,1,Mild,Not known,1
+Taiwan,65,Male,98,1,0,0,0,1,Mild,No,0
+Mauritius,65,Male,100,0,0,0,0,1,Mild,No,0
+Argentina,37,Female,99,0,0,0,0,1,Mild,No,0
+Singapore,24,Female,104,1,1,1,0,0,Moderate,No,0
+France,65,Male,98,1,0,0,0,1,Mild,No,0
+Bermuda,39,Male,101,1,1,1,1,0,Severe,Not known,1
+Vietnam,18,Male,100,1,0,0,0,1,Mild,No,0
+Cyprus,37,Female,99,0,0,0,1,1,Mild,No,0
+Kenya,39,Male,100,1,0,0,1,1,Mild,No,0
+Georgia,10,Male,102,1,0,0,0,1,Mild,No,0
+Jordan,20,Male,103,1,1,0,0,0,Moderate,Not known,0
+SanMario,45,Transgender,99,0,0,0,1,1,Mild,No,0
+Malta,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Taiwan,45,Male,98,0,1,1,1,0,Moderate,Yes,1
+Mauritius,45,Female,99,1,0,0,0,1,Mild,No,0
+Bahrain,65,Male,100,0,0,0,0,1,Mild,No,0
+Nigeria,37,Female,99,0,0,0,0,1,Mild,No,0
+China,24,Female,104,1,1,1,0,0,Moderate,No,0
+Kazakhstan,65,Male,98,1,0,0,0,1,Mild,No,0
+Togo,37,Female,99,0,0,0,1,1,Mild,No,0
+Bulgaria,39,Male,100,1,0,0,1,1,Mild,No,0
+Russia,10,Male,102,1,0,0,0,1,Mild,No,0
+Norway,20,Male,103,1,1,0,0,0,Moderate,Not known,0
+France,45,Transgender,99,0,0,0,1,1,Mild,No,0
+Congo,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Peru,45,Male,98,0,1,1,1,0,Moderate,Yes,1
+Ireland,45,Female,99,1,0,0,0,1,Mild,No,0
+Singapore,24,Female,98,0,0,0,0,1,Mild,No,0
+Turkey,37,Male,99,0,0,1,1,1,Moderate,Not known,0
+Netherlands,65,Male,101,0,1,1,1,0,Moderate,Yes,1
+USA,37,Female,100,0,1,0,0,0,Mild,No,0
+Republic of Korean,35,Male,101,1,0,1,1,1,Severe,No,1
+South Korea,70,Female,103,1,1,1,1,1,Severe,Yes,1
+Armenia,30,Female,98,0,0,0,0,0,Mild,No,0
+Kazakhstan,35,Male,102,0,0,1,0,1,Moderate,Not known,0
+Iran,73,Male,103,1,0,1,1,1,Moderate,No,0
+Bulgaria,50,Male,101,1,0,0,1,0,Severe,Not known,0
+Cuba,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Ghana,82,Female,99,0,0,0,1,0,Mild,No,0
+Peru,40,Male,99,0,0,1,0,0,Mild,No,0
+Ireland,55,Male,103,1,0,1,1,1,Moderate,Yes,1
+Singapore,35,Female,101,1,0,0,1,1,Mild,Not known,0
+Turkey,35,Male,100,0,0,1,0,0,Mild,No,0
+Jordan,24,Female,104,1,1,1,0,0,Moderate,No,0
+China,65,Male,98,1,0,0,0,1,Mild,No,0
+Kenya,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Maldives,35,Female,104,1,0,1,0,0,Mild,Not known,1
+New Zealand,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Armenia,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Kazakhstan,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Iran,18,Female,99,1,0,0,0,1,Mild,No,0
+Bulgaria,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Peru,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Ireland,45,Female,99,1,0,0,0,1,Mild,Not known,1
+Singapore,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Turkey,18,Male,100,1,0,0,0,1,Mild,No,0
+Georgia,37,Female,99,0,0,0,1,1,Mild,No,0
+USA,39,Male,100,1,0,0,1,1,Mild,No,0
+SanMario,35,Female,103,1,0,1,0,0,Mild,Not known,1
+Cyprus,18,Female,99,1,0,0,0,1,Mild,No,0
+Kenya,18,Female,99,1,0,0,0,1,Mild,No,0
+Georgia,39,Female,100,0,0,1,0,0,Mild,Not known,0
+Jordan,55,Female,102,1,1,1,1,0,Severe,Yes,1
+SanMario,73,Male,103,1,1,0,0,1,Mild,No,0
+Malta,50,Male,101,0,0,0,1,0,Mild,No,0
+Taiwan,65,Male,100,0,0,0,0,1,Mild,No,0
+Mauritius,37,Female,99,0,0,0,0,1,Mild,No,0
+Bahrain,24,Female,104,1,1,1,0,0,Moderate,Yes,1
+Bulgaria,65,Male,98,1,0,0,0,1,Mild,No,0
+Yemen,39,Male,100,1,0,0,1,1,Mild,No,0
+Nepal,35,Female,104,1,0,1,0,0,Mild,Not known,1
+China,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Armenia,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Kazakhstan,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Iran,18,Male,100,1,0,0,0,1,Mild,No,0
+Bulgaria,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Haiti,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Bulgaria,45,Female,99,1,0,0,0,1,Mild,Not known,1
+Kenya,65,Male,98,1,0,0,0,1,Mild,No,0
+Georgia,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Jordan,18,Male,100,1,0,0,0,1,Mild,No,0
+SanMario,37,Female,99,0,0,0,1,1,Mild,No,0
+Malta,39,Male,100,1,0,0,1,1,Mild,No,0
+Taiwan,35,Female,103,1,0,1,0,0,Mild,Not known,0
+Mauritius,18,Female,99,1,0,0,0,1,Mild,No,0
+Georgia,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Albania,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Uganda,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Zimbabwe,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Bulgaria,37,Male,99,0,0,1,1,1,Moderate,Not known,0
+Taiwan,40,Male,101,0,1,1,1,0,Moderate,Yes,1
+Cyprus,37,Female,100,0,1,0,0,0,Mild,No,0
+Armenia,35,Male,101,1,0,1,1,1,Severe,No,0
+Kazakhstan,70,Female,103,1,1,1,1,1,Severe,Yes,1
+Iran,30,Female,98,0,0,0,0,0,Mild,No,0
+Bulgaria,35,Male,102,0,0,1,0,1,Moderate,Not known,0
+Bangladesh,55,Male,103,1,0,1,1,1,Moderate,No,0
+Netherlands,55,Male,101,1,0,0,1,0,Severe,Not known,0
+France,24,Female,104,1,1,1,0,0,Moderate,No,0
+Malta,65,Male,98,1,0,0,0,1,Mild,No,0
+South Africa,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Bulgaria,18,Male,100,1,0,0,0,1,Mild,No,0
+Thailand,37,Female,99,0,0,0,1,1,Mild,No,0
+Mongolia,39,Male,100,1,0,0,1,1,Mild,No,0
+Zimbabwe,35,Female,103,1,0,1,0,0,Mild,Not known,1
+Sweden,18,Female,99,1,0,0,0,1,Mild,No,0
+Fiji,37,Female,99,0,0,0,0,1,Mild,No,0
+Bhutan,24,Female,104,1,1,1,0,0,Moderate,Yes,1
+Greenland,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Hungary,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Pakistan,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Mongolia,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Vietnam,55,Female,102,1,0,1,1,0,Severe,Yes,1
+China,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Vietnam,82,Female,99,0,0,0,1,0,Mild,No,0
+Kenya,40,Male,99,0,0,1,0,0,Mild,No,1
+Georgia,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Jordan,35,Female,101,1,0,0,1,1,Mild,Not known,1
+SanMario,37,Female,99,0,0,0,1,1,Mild,No,0
+Malta,55,Male,101,1,0,0,1,0,Severe,Not known,1
+Taiwan,76,Male,100,1,1,1,0,1,Mild,Yes,1
+Mauritius,37,Female,99,0,0,0,0,1,Mild,No,0
+China,24,Female,104,1,1,1,0,0,Moderate,No,0
+New Zealand,65,Male,98,1,0,0,0,1,Mild,No,0
+Cyprus,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Kenya,18,Male,100,1,0,0,0,1,Mild,No,0
+Georgia,18,Female,99,1,0,0,0,1,Mild,No,0
+Jordan,39,Female,100,0,0,1,0,0,Mild,Not known,0
+SanMario,55,Female,102,1,1,1,1,0,Severe,Yes,1
+Malta,73,Male,103,1,1,0,0,1,Mild,No,0
+Taiwan,50,Male,101,0,0,0,1,0,Mild,No,0
+Mauritius,65,Male,100,0,0,0,0,1,Mild,No,0
+Mexico,37,Female,99,0,0,0,0,1,Mild,No,0
+Mongolia,24,Female,104,1,1,1,0,0,Moderate,No,0
+Zimbabwe,65,Male,98,1,0,0,0,1,Mild,No,0
+Sweden,65,Male,98,1,0,0,0,1,Mild,No,0
+Fiji,70,Male,101,1,1,1,1,0,Severe,Not known,1
+Bhutan,18,Male,100,1,0,0,0,1,Mild,No,0
+Greenland,37,Female,99,0,0,0,1,1,Mild,No,0
+Hungary,39,Male,100,1,0,0,1,1,Mild,No,0
+Pakistan,35,Female,103,1,0,1,0,0,Mild,Not known,0
+Mongolia,18,Female,99,1,0,0,0,1,Mild,No,0
+Vietnam,70,Female,103,1,1,1,1,1,Severe,Yes,1
+China,30,Female,98,0,0,0,0,0,Mild,No,0
+Serbia,35,Male,102,0,0,1,0,1,Moderate,Not known,0
+Barbados,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Bulgaria,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Vietnam,39,Female,100,1,0,1,0,0,Mild,Not known,1
+France,55,Female,102,1,0,1,1,0,Severe,Yes,1
+Malta,40,Male,99,0,0,1,0,0,Mild,No,0
+Taiwan,65,Male,103,1,0,1,1,1,Moderate,Yes,1
+Mauritius,35,Female,101,1,0,0,1,1,Mild,Not known,0
+Congo,35,Male,100,0,0,1,0,0,Mild,No,0
+Vietnam,37,Male,99,0,0,0,0,0,Mild,No,0
+Zambia,24,Female,101,1,1,0,1,1,Moderate,Yes,1
+Hungary,16,Male,98,0,0,0,0,0,Mild,No,0
+Haiti,37,Female,100,0,1,1,0,0,Mild,Yes,1
+Liberia,45,Male,101,1,1,1,1,0,Moderate,Yes,1
+Nepal,45,Female,99,1,0,0,0,1,Mild,Not known,1
+Togo,55,Male,102,0,0,0,1,1,Mild,No,0
+Myanmar,73,Male,98,0,1,0,0,0,Mild,No,0
+Cambodia,35,Female,104,1,0,1,0,0,Mild,Not known,1
+Finland,18,Female,99,1,0,0,1,1,Mild,Yes,1
+Morocco,39,Female,100,1,0,1,0,0,Mild,Not known,1
+Japan,55,Female,102,1,0,1,1,0,Severe,Yes,1
