@@ -178,7 +178,7 @@ Hurray! You successfully made a contribution!
 
 - ### **M**
 
-  - [@kr123Manish](https://github.com/kr123Manish)
+  - [Manish Kumar](https://github.com/kr123Manish)
 
 - ### **N**
 
