@@ -131,7 +131,7 @@ Hurray! You successfully made a contribution!
   
 - ### **B**
 
-  - []()
+  - [Nitin Diwakar](https://github.com/Nitin-Diwakar)
 
 - ### **C**
 
