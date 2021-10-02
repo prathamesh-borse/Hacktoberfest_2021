@@ -197,6 +197,8 @@ Hurray! You successfully made a contribution!
 
 - ### **R**
 
+  - [Ravinder Chadha](https://github.com/ravinder-chadha)
+  
 - ### **S**
   - [Siddharth Singh Chouhan](https://github.com/Sid672)
   - [Stephen Wong](https://github.com/Swong87)
