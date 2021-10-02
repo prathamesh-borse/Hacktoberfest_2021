@@ -182,7 +182,7 @@ Hurray! You successfully made a contribution!
 
 - ### **N**
 
-  - []()
+  - [Nitin Diwakar](https://github.com/Nitin-Diwakar/)
 
 - ### **O**
 
