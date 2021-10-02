@@ -20,5 +20,5 @@ jobs:
       - uses: EddieHubCommunity/gh-action-community/src/welcome@main
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          issue-message: 'Hello @${{ github.actor }}, <h1>It''s great having you contribute to this project</h1> Welcome to the community :nerd_face:'
-          pr-message: 'Hello @${{ github.actor }}, <h1>It''s great having you contribute to this project</h1> Welcome to the community :nerd_face:'
+          issue-message: 'Hello @${{ github.actor }}, <h3>It''s great having you contribute to this project</h3> Welcome to the community :nerd_face:'
+          pr-message: 'Hello @${{ github.actor }}, <h3>It''s great having you contribute to this project</h3> Welcome to the community :nerd_face:'
