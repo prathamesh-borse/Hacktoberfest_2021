@@ -1,0 +1,95 @@
+body {
+    justify-content:center;
+  
+  }
+  h1{
+    text-align: center;
+  }
+  .option-page {
+    flex-direction: column;
+    top:0;
+    bottom:0;
+    right:0;
+    left:0;
+    position:fixed;
+    align-items:center;
+    justify-content:center;
+    justify-content: space-evenly;
+    float:none;
+    display:flex;
+    color:white;
+    background-color: rgba(0, 0, 0, 0.9);
+  } 
+  .hide {
+    display:none;
+  }
+  .divider-1 {
+    width:80px;
+      height:auto;
+      display:inline-block;
+  }
+  .divider-2 {
+      width:450px;
+        height:auto;
+        display:inline-block
+    
+  }
+  .option-page button {
+    font-size:2rem;
+    cursor:pointer;
+  }
+  
+  
+  .container {
+      background:rgb(9 6 62);
+      margin: 50px;
+      color:white;
+      text-align:center;
+    }
+    .game-status {
+      color:white;
+      justify-content: space-around;
+      margin:40px;
+      display:flex;
+      font-size:30px;
+    }
+    .reset-button{
+      cursor:pointer;
+    }
+    .change-color::after {
+      color:rgb(65, 131, 153);
+    }
+    
+    .grid {
+        display:inline-grid;
+        grid-template-columns:auto auto auto;
+        grid-template-rows:auto auto auto;
+        background:white;
+        grid-gap:5px;
+        margin:30px;
+    }
+    .grid-item {
+      background-color:rgb(9 6 62);
+      padding: 20px;
+      font-size: 30px;
+      text-align: center;
+      cursor:pointer;
+      justify-content:space-evenly;
+      height:150px;
+        width:150px;
+    }
+    .x, 
+    .o {
+      cursor:default;
+    }
+    .x::after{
+      content:"x";
+      justify-content: center;
+      font-size:100px;
+    }
+    .o::after{
+      content:"o";
+      justify-content:center;
+      font-size:100px;
+    }
+  
