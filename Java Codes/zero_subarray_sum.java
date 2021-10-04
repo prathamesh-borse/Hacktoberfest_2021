@@ -43,3 +43,4 @@ public class ZeroSumSubarray
             System.out.println("No Such SubArray with 0 sum");
     }
 }
+//link of the question - https://practice.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1
