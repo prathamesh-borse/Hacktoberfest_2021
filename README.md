@@ -204,7 +204,7 @@ Hurray! You successfully made a contribution!
 - ### **S**
   - [Siddharth Singh Chouhan](https://github.com/Sid672)
   - [Stephen Wong](https://github.com/Swong87)
-  - [Sean Kerwin](https://githuv.com/lordkerwin)
+  - [Sean Kerwin](https://github.com/lordkerwin)
 
 - ### **T**
 
