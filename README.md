@@ -196,7 +196,7 @@ Hurray! You successfully made a contribution!
 - ### **Q**
 
 - ### **R**
-
+  - [Rohit Mittal](https://github.com/rohit162)
   - [Ravinder Chadha](https://github.com/ravinder-chadha)
   - [Roch Roger](https://github.com/rochroger)
   
