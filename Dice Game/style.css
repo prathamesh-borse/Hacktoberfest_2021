@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-color: #264653;
+}
+h1{
+    font-size: 8rem;
+    color: white;
+}
+.dice1{
+    padding-right: 40px;
+}
+.dice2{
+    padding-left: 40px;
+}
+.player1{
+    font-size: 2rem;
+    padding-right: 120px;
+}
+.player2{
+    font-size: 2rem;
+    padding-left: 120px;
+}
