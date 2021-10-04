@@ -33,6 +33,7 @@ public class ZeroSumSubarray
  
 
     public static void main(String arg[])
+     
     {
         int arr[] = { 55, -2, 5, 1, -6 };
         if (subArray(arr))
