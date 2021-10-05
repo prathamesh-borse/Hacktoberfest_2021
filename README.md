@@ -205,6 +205,7 @@ Hurray! You successfully made a contribution!
   - [Siddharth Singh Chouhan](https://github.com/Sid672)
   - [Stephen Wong](https://github.com/Swong87)
   - [Sean Kerwin](https://github.com/lordkerwin)
+  - [Sadaf Khushk](https://github.com/Sadafkhushk)
 
 - ### **T**
 
