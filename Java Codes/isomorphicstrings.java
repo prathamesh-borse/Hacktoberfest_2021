@@ -1,7 +1,7 @@
 // Java program to check if two strings are isomorphic or not
 import java.io.*;
 import java.util.*;
-class Isomorphic
+public class Isomorphic
 {
     static int size = 256;
      
