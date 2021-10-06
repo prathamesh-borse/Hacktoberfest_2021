@@ -1,3 +1,5 @@
+//https://practice.geeksforgeeks.org/problems/longest-prefix-suffix2527/1
+
 public class  lps
 {
 static int lps(String s)
