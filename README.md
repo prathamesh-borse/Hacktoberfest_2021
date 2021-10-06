@@ -195,7 +195,7 @@ Hurray! You successfully made a contribution!
   - [Prathamesh Borse](https://github.com/prathamesh-borse/)
 
 - ### **Q**
-
+  - [Qaimuddin](https://github.com/Qaimuddin)
 - ### **R**
   - [Rohit Mittal](https://github.com/rohit162)
   - [Ravinder Chadha](https://github.com/ravinder-chadha)
