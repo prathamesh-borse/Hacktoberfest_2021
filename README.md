@@ -185,6 +185,7 @@ Hurray! You successfully made a contribution!
 - ### **N**
 
   - [Nitin Diwakar](https://github.com/Nitin-Diwakar/)
+  - [NaseerShaikh1](https://github.com/NaseerShaikh1)
 
 - ### **O**
 
