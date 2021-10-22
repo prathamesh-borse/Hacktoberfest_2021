@@ -18,7 +18,7 @@ Main features:
 
 
 
-<img width="500px" height="500px" src="https://raw.githubusercontent.com/henrikhorbovyi/Hacktoberfest_2021/main/baby-dont-cry-app-showcase/images/01.png"><img width="500px" height="500px" src="https://raw.githubusercontent.com/henrikhorbovyi/Hacktoberfest_2021/main/baby-dont-cry-app-showcase/images/02.png"><img width="500px" height="500px" src="https://raw.githubusercontent.com/henrikhorbovyi/Hacktoberfest_2021/main/baby-dont-cry-app-showcase/images/03.png">
+<img height="500px" src="https://raw.githubusercontent.com/henrikhorbovyi/Hacktoberfest_2021/main/baby-dont-cry-app-showcase/images/01.png"> <img height="500px" src="https://raw.githubusercontent.com/henrikhorbovyi/Hacktoberfest_2021/main/baby-dont-cry-app-showcase/images/02.png"> <img height="500px" src="https://raw.githubusercontent.com/henrikhorbovyi/Hacktoberfest_2021/main/baby-dont-cry-app-showcase/images/03.png">
 
 
 
