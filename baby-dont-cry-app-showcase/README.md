@@ -1,3 +1,5 @@
+
+
 # Baby, don't cry :baby:
 
 [Check it out on play store](https://play.google.com/store/apps/details?id=io.henrikhorbovyi.babydontcry)
@@ -13,6 +15,12 @@ Main features:
 - Repeat mode, let the sound play indefinitely
 
 ## Preview
+
+
+
+<img width="500px" height="500px" src="https://raw.githubusercontent.com/henrikhorbovyi/Hacktoberfest_2021/main/baby-dont-cry-app-showcase/images/01.png"><img width="500px" height="500px" src="https://raw.githubusercontent.com/henrikhorbovyi/Hacktoberfest_2021/main/baby-dont-cry-app-showcase/images/02.png"><img width="500px" height="500px" src="https://raw.githubusercontent.com/henrikhorbovyi/Hacktoberfest_2021/main/baby-dont-cry-app-showcase/images/03.png">
+
+
 
 
 
