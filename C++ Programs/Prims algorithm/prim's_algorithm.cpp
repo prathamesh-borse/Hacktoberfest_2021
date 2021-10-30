@@ -66,8 +66,8 @@ void mst_by_prim(int graph[V][V],map<int ,char > mp)  // Function to construct a
 } 
 int main() 
 {
-	freopen("In.txt","r",stdin);
-	freopen("out.txt","w",stdout);
+	freopen("Input.txt","r",stdin);
+	freopen("output.txt","w",stdout);
 	int graph[V][V];
 	map<int ,char > mp;
 	for(int i=0;i<V;i++)
