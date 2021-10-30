@@ -1,0 +1,11 @@
+Edges included in the minimum spanning tree are :
+Edge 	Weight
+a - b 	4 
+b - c 	8 
+c - d 	7 
+d - e 	9 
+c - f 	4 
+f - g 	2 
+g - h 	1 
+c - i 	2 
+Weight of Minimum Spanning Tree is : 37

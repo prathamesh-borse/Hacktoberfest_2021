@@ -1,0 +1,10 @@
+Edges in the Minimum Spanning Tree are :
+c i 2
+c f 4
+g h 1
+f g 2
+a b 4
+c d 7
+b c 8
+d e 9
+Minimum Spanning Tree's weight is :  37
