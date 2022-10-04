@@ -45,7 +45,8 @@ class Solution{
         }
 };
 
-int main(){
+int main()
+{
     string str;
     cout<<"Enter the string";
     cin>>str;
